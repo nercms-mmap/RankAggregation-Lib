@@ -1,10 +1,12 @@
-# 参考文献：Preference relations based unsupervised rank aggregation for metasearch
-# Tancilon：20231004
-# 定义算法的顶层输入为csv文件格式，4列 Query | Voter name | Item Code | Item Rank
-#      - Query 不要求是从1开始的连续整数
-#      - Voter name 和 Item Code允许是字符串格式
-# 定义算法的最终输出为csv文件格式：3列 Query | Item Code | Item Rank
-#      - 注意输出的为排名信息，不是分数信息
+# Reference: Borda Count
+# dq, Tancilon：20231004
+# fsw, text : 20231013
+# Define the input to the algorithm as a csv file format: Query | Voter name | Item Code | Item Rank
+#      - Query does not require consecutive integers starting from 1.
+#      - Voter name and Item Code are allowed to be in String format.
+# Define the final output of the algorithm as a csv file format： Query | Item Code | Item Rank
+#      - Output is the rank information, not the score information
+# The smaller the Item Rank, the higher the rank.
 
 # 数据输入可接受partial list，但不能处理并列排名的情况， Item Rank数值越小，排名越靠前
 # 注意：该方法不适合社会选择领域
