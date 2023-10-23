@@ -5,7 +5,7 @@ These unsupervised RA methods were tested on our preprocessed dataset and the re
 To run your example in Python, open unsupervised RA methods_python/algorithm and then select the method you want to use. Please pay attention to change your dataset file to our corresponding format:  
 Define the input to the method as a csv file format: Query | Voter name | Item Code | Item Rank  
 Define the final output of the method as a csv file format： Query | Item Code | Item Rank  
-We also provide a partially processed dataset in our dataset.zip file
+We also provide a partially processed dataset in our dataset.zip file, you are welcome to use our code and test our code here!
 
 ## test demonstrations
 We selected several different unsupervised RA methods for simple test demonstrations, as can be seen in example1.ipynb (Dataset: MQ2007) and example2.ipynb (Dataset: Ice-cream flavor)
