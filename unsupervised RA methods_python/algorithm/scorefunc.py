@@ -34,19 +34,8 @@ def powerAgg(input_list):
     for k in range(num_voters):
         for i in range(num_items):
             item_score[k,i] = math.pow(1.1,num_items-input_list[k,i])
-            item_power_score += item_score[k,i]
     
-    first_row = item_power_score
-    # sort
-    sorted_indices = np.argsort(first_row)[::-1]
-    
-    currrent_rank = 1
-    result = np.zeros(num_items)
-    for index in sorted_indices:
-        result[index] = currrent_rank
-        currrent_rank += 1
-
-    return result
+    return item_score
 
 def logAgg(input_list):
     num_voters = input_list.shape[0]
@@ -57,16 +46,4 @@ def logAgg(input_list):
     for k in range(num_voters):
         for i in range(num_items):
             item_score[k,i] = math.log(input_list[k,i],0.1)
-            item_power_score += item_score[k,i]
-    
-    first_row = item_power_score
-    # sort
-    sorted_indices = np.argsort(first_row)[::-1]
-    
-    currrent_rank = 1
-    result = np.zeros(num_items)
-    for index in sorted_indices:
-        result[index] = currrent_rank
-        currrent_rank += 1
-
-    return result
+    return item_score
