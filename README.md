@@ -2,9 +2,9 @@
 These unsupervised RA methods were tested on our preprocessed dataset and the results of our preprocessing are in the folder. There are more than 20 of these methods including old RA methods and new RA methods, if there is a need to test other datasets, please follow the comments in the code for dataset preprocessing and code modification.
 
 ## Getting Started
-To run your example in Python, open the /.py file and place your rankings in the variable "ranking" (each column correspondes to rankings produced by an MCDM method).
+To run your example in Python, open unsupervised RA methods_python/algorithm and then select the code you want to use. Please pay attention to change your dataset file to our corresponding format.
 
 ## test demonstrations
-We selected several different unsupervised RA methods for simple test demonstrations, as can be seen in 
+We selected several different unsupervised RA methods for simple test demonstrations, as can be seen in example1.ipynb (Dataset: MQ2007) and example2.ipynb (Dataset: Ice-cream flavor)
 
 If you have problems using the code or have suggestions for changes, please contact waii2022@whu.edu.cn
