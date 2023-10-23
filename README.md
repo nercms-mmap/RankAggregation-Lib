@@ -9,5 +9,5 @@ To run your example in Python, open unsupervised RA methods_python/algorithm and
 ## test demonstrations
 We selected several different unsupervised RA methods for simple test demonstrations, as can be seen in example1.ipynb (Dataset: MQ2007) and example2.ipynb (Dataset: Ice-cream flavor)
 
-__
+- - -
 If you have problems using the code or have suggestions for changes, please contact waii2022@whu.edu.cn
