@@ -7,8 +7,11 @@ Define the input to the method as a csv file format: Query | Voter name | Item C
 Define the final output of the method as a csv file format： Query | Item Code | Item Rank  
 We also provide a partially processed dataset in our dataset.zip file, you are welcome to use our code and test our code here!
 
-## test demonstrations
+## Test demonstrations
 We selected several different unsupervised RA methods for simple test demonstrations, as can be seen in example1.ipynb (Dataset: MQ2007) and example2.ipynb (Dataset: Ice-cream flavor)
+
+## Follow-up plan
+We will be updating more RA methods for share use.
 
 - - -
 If you have problems using the code or have suggestions for changes, please contact waii2022@whu.edu.cn
