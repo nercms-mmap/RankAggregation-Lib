@@ -15,6 +15,8 @@ We will be updating more RA methods for share use.
 
 ## Result for datasets
 
+### Information retrieval
+
 ### Bioinformatics
 | Method          | Recall@200 | Recall@400 | Recall@600 | Recall@800 | Recall@1000 | NDCG@500 |
 |:----------------------:|:------------:|:------------:|:------------:|:------------:|:-------------:|:----------:|
@@ -77,6 +79,7 @@ We will be updating more RA methods for share use.
 | DIBRA             | 4.7      | 10      | 8.6      | 14076   | 16.5     | 61874  |
 | DIBRA-Prune       | 5.43     | 6       | 6.11     | 14996   | 7.16     | 39448  |
 
+### Recommender system
 
 - - -
 If you have problems using the code or have suggestions for changes, please contact waii2022@whu.edu.cn
