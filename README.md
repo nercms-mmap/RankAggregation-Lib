@@ -15,7 +15,7 @@ We will be updating more RA methods for share use.
 
 ## Result for datasets
 
-### NSCLC
+### Bioinformatics
 | Method          | Recall@200 | Recall@400 | Recall@600 | Recall@800 | Recall@1000 | NDCG@500 |
 |:----------------------:|:------------:|:------------:|:------------:|:------------:|:-------------:|:----------:|
 | CG              | 0.029      | 0.058      | 0.116      | 0.174      | 0.203       | 0.052    |
@@ -42,6 +42,8 @@ We will be updating more RA methods for share use.
 | RRA             | 0.116      | 0.203      | 0.275      | 0.319      | 0.348       | 0.171    |
 | WT-INDEG        | 0.058      | 0.087      |0.116       | 0.188      |0.203        |0.058     |
 | Agglomerative   | 0.029      | 0.072      | 0.13       | 0.174      | 0.203       | 0.058    |
+
+### Social choice
 
 
 - - -
