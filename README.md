@@ -25,20 +25,11 @@ The result of initial rankings (BDB, BOT, Top-DB-Net-RK, LightMBN, FPB, LUPerson
 
 <div align="center">
 
-|                 |         | Market1501 | Market1501 | DukeMTMC-ReID | DukeMTMC-ReID | CUHK03(detected) | CUHK03(detected) | CUHK03(labeled) | CUHK03(labeled) |
-|:---------------:|:-------:|:----------:|:----------:|:-------------:|:-------------:|:----------------:|:----------------:|:---------------:|:---------------:|
-| Initial Ranking |  Venue  |     R@1    |     mAP    |      R@1      |      mAP      |        R@1       |        mAP       |       R@1       |       mAP       |
-|       BDB       | ICCV'19 |    94.21   |    85.08   |     88.11     |     74.83     |       76.07      |       71.47      |      78.36      |      74.62      |
-|       BOT       | CVPR'19 |    95.31   |    93.7    |     90.26     |     88.34     |       69.93      |       71.58      |       72.5      |      74.59      |
-|  Top-DB-Net+RK  | ICPR'21 |    95.52   |    93.97   |     90.48     |     87.77     |       85.79      |       86.26      |      87.86      |      88.43      |
-|     LightMBN    | ICIP'21 |    96.41   |    91.25   |     92.01     |     83.28     |       85.93      |       81.53      |      87.21      |       83.9      |
-|       FPB       | CVPR'21 |    95.46   |    89.98   |     89.72     |     81.88     |       81.57      |       78.03      |      84.29      |      81.28      |
-|     LUPerson    | CVPR'21 |    96.26   |    90.73   |     90.26     |     81.74     |       70.93      |       67.42      |      74.64      |      72.53      |
+![image](https://github.com/nercms-mmap/RankAggregation-Lib/assets/121333364/5c8e8139-5c1b-404d-87e4-b55bbe91d799)
 
 Table 1
 </div>
 
-![image](https://github.com/nercms-mmap/RankAggregation-Lib/assets/121333364/46c4cf0e-6982-4906-91d6-48903062dc99)
 
 
 
