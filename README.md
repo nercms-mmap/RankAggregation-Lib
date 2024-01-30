@@ -82,6 +82,9 @@ We will be updating more RA methods for share use.
 ### Recommender system
 
 
-# Reference
+## Reference
+[1] [Batch dropblock network for person re-identification and beyond] 
+[2] 
+[3] 
 - - -
 If you have problems using the code or have suggestions for changes, please contact waii2022@whu.edu.cn
