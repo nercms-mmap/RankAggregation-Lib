@@ -24,10 +24,12 @@ All experiments are conducted on Intel Xeon Silver 4215 (2.50GHz) and 4 Nvidia R
 The result of initial rankings (BDB, BOT, Top-DB-Net-RK, LightMBN, FPB, LUPerson) is shown in Table 1.
 
 <div align="center">
-
 ![image](https://github.com/nercms-mmap/RankAggregation-Lib/assets/121333364/5c8e8139-5c1b-404d-87e4-b55bbe91d799)
-
 Table 1
+</div>
+
+<div align="center">
+Table 2
 </div>
 
 
