@@ -83,7 +83,7 @@ We will be updating more RA methods for share use.
 
 
 ## Reference
--[1](https://github.com/open-mmlab/mmengine)
+-[BDB]([https://github.com/open-mmlab/mmengine](https://github.com/daizuozhuo/batch-dropblock-network)) 
 
 [2] 
 
