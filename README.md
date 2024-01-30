@@ -38,6 +38,7 @@ The result of initial rankings (BDB, BOT, Top-DB-Net-RK, LightMBN, FPB, LUPerson
 Table 1
 </div>
 
+![image](https://github.com/nercms-mmap/RankAggregation-Lib/assets/121333364/46c4cf0e-6982-4906-91d6-48903062dc99)
 
 
 
