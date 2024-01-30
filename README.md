@@ -19,6 +19,20 @@ We will be updating more RA methods for share use.
 
 In re-ID datasets, we choose 6 feature extraction methods to extract features from both query and gallery images (BDB [@1], BOT [@2], Top-DB-Net-RK [@3] , LightMBN [@4] , FPB [@5] , LUPerson [@6] ), and then use the Euclidean method to combine the feature information of the combination of query and gallery to get the gallery scores under each query, and then eventually, for each query, we get the 6 basic rankings according to the scores in descending order. We evaluate our method on four image re-ID datasets(Market1501, DukeMTMC-reID and CUHK03 detected and labeled)
 
+All experiments are conducted on Intel Xeon Silver 4215 (2.50GHz) and 4 Nvidia RTX A6000. It is important to note that MC1-4 methods are very difficult to test on the full Market1501 and DukeMTMC-reID datasets, requiring more than 40,000 hours in our experimental environment. Therefore, we conduct a cut-off operation for these two datasets on the basic rankings to refine our experiments as follows: we take out top-K items from all basic rankings to form a new itemset, and find the items in this itemset that were not originally present in specific basic ranking to add after the $k_{th}$ item of the basic ranking to finally obtain a new basic ranking. We use the MC1-4 method to aggregate the new basic rankings to a new one $R_{\tau}$. After aggregation, the items except itemset, we randomly sort them to the back of $R_{\tau}$ be the MC1-4 (top-K).
+
+The result of initial rankings and RA methods in re-ID datasets is shown in Table 1.
+
+<div align="center">
+
+| 列 1     | 列 2     | 列 3     |
+|----------|----------|----------|
+| 数据 1   | 数据 2   | 数据 3   |
+| 数据 4   | 数据 5   | 数据 6   |
+
+Table 1
+</div>
+
 
 
 
