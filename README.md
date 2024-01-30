@@ -83,7 +83,7 @@ We will be updating more RA methods for share use.
 
 
 ## Reference
-- [BDB](https://github.com/daizuozhuo/batch-dropblock-network) 
+- [BDB](https://github.com/daizuozhuo/batch-dropblock-network) : Batch dropblock network for person re-identification and beyond
 
 [2] 
 
