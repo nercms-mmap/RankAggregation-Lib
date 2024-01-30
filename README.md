@@ -17,7 +17,7 @@ We will be updating more RA methods for share use.
 
 ### re-ID 
 
-
+In re-ID datasets, we choose 6 feature extraction methods to extract features from both query and gallery images (BDB [@1], BOT [@2], Top-DB-Net-RK [@3] , LightMBN [@4] , FPB [@5] , LUPerson [@6] ), and then use the Euclidean method to combine the feature information of the combination of query and gallery to get the gallery scores under each query, and then eventually, for each query, we get the 6 basic rankings according to the scores in descending order. We evaluate our method on four image re-ID datasets(Market1501, DukeMTMC-reID and CUHK03 detected and labeled)
 
 
 
