@@ -29,6 +29,14 @@ The result of initial rankings (BDB, BOT, Top-DB-Net-RK, LightMBN, FPB, LUPerson
 Table 1
 </div>
 
+Table2:
+<div align="center">
+
+![QQ截图20240131000101](https://github.com/nercms-mmap/RankAggregation-Lib/assets/121333364/4bf6c2e2-8187-4527-a48d-1d4dfd929304)
+
+
+Table 2
+</div>
 
 
 
