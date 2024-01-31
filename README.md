@@ -15,7 +15,7 @@ We will be updating more RA methods for share use.
 
 ## Experiments
 
-### re-ID 
+### Re-identification
 
 In re-ID datasets, we choose 6 feature extraction methods to extract features from both query and gallery images (BDB [@1], BOT [@2], Top-DB-Net-RK [@3] , LightMBN [@4] , FPB [@5] , LUPerson [@6] ), and then use the Euclidean method to combine the feature information of the combination of query and gallery to get the gallery scores under each query, and then eventually, for each query, we get the 6 basic rankings according to the scores in descending order. We evaluate our method on four image re-ID datasets(Market1501, DukeMTMC-reID and CUHK03 detected and labeled)
 
@@ -29,15 +29,23 @@ The result of initial rankings (BDB, BOT, Top-DB-Net-RK, LightMBN, FPB, LUPerson
 Table 1
 </div>
 
-we use official training sets to train basic re-ID and fully-supervised RA methods, and use official test sets to evaluate all RA methods.Table 2 presents the parameters of the semi-supervised and supervised methods, along with their type, range of values, and the value that was set during the tuning process.
+we use official training sets to train basic re-ID and fully-supervised RA methods, and use official test sets to evaluate all RA methods.Table 2 presents the parameters of the semi-supervised and supervised methods, along with their type, and the value that was set during the re-ID experiments. Note that a parameter setting of default means that for each query in the training set, the value taken is equal to the total number of relevant labels.
+<div align="center">
+  
+![image](https://github.com/nercms-mmap/RankAggregation-Lib/assets/121333364/cfce464e-fa76-4543-8a05-a8f2123d25bc)
 
+
+Table 2
+</div>
+
+The final result of all RA methods is shown in Table 3.
 
 <div align="center">
 
 ![QQ截图20240131000101](https://github.com/nercms-mmap/RankAggregation-Lib/assets/121333364/4bf6c2e2-8187-4527-a48d-1d4dfd929304)
 
 
-Table 2
+Table 3
 </div>
 
 
