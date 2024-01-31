@@ -29,7 +29,7 @@ The result of initial rankings (BDB, BOT, Top-DB-Net-RK, LightMBN, FPB, LUPerson
 Table 1
 </div>
 
-Table2:
+we use official training sets to train basic re-ID and fully-supervised RA methods, and use official test sets to evaluate all RA methods.
 <div align="center">
 
 ![QQ截图20240131000101](https://github.com/nercms-mmap/RankAggregation-Lib/assets/121333364/4bf6c2e2-8187-4527-a48d-1d4dfd929304)
