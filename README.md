@@ -32,7 +32,8 @@ Table 1
 we use official training sets to train basic re-ID and fully-supervised RA methods, and use official test sets to evaluate all RA methods.Table 2 presents the parameters of the semi-supervised and supervised methods, along with their type, and the value that was set during the re-ID experiments. Note that a parameter setting of default means that for each query in the training set, the value taken is equal to the total number of relevant labels.
 <div align="center">
   
-![image](https://github.com/nercms-mmap/RankAggregation-Lib/assets/121333364/cfce464e-fa76-4543-8a05-a8f2123d25bc)
+![image](https://github.com/nercms-mmap/RankAggregation-Lib/assets/121333364/0095cd44-5a2a-45df-8683-5afb506727b8)
+
 
 
 Table 2
