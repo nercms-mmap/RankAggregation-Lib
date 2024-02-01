@@ -53,14 +53,4 @@ Table 3
 
 
 
-### Recommender system
 
-
-## Reference
-- [BDB](https://github.com/daizuozhuo/batch-dropblock-network) : Batch dropblock network for person re-identification and beyond
-
-[2] 
-
-[3] 
-- - -
-If you have problems using the code or have suggestions for changes, please contact waii2022@whu.edu.cn
