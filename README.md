@@ -1,4 +1,4 @@
-# unsupervised-RA-methods
+# Unsupervised-RA-methods
 These unsupervised RA methods were tested on our preprocessed dataset and the results of our preprocessing are in the folder. There are more than 20 of these methods including classic RA methods and state-of-the-aet RA methods, if there is a need to test other datasets, please follow the comments in the code for dataset preprocessing and code modification.
 
 ## Getting Started
@@ -32,9 +32,7 @@ Table 1: Rank@1(%) and mAP(%) results for selected feature extraction methods on
 we use official training sets to train basic re-ID and fully-supervised RA methods, and use official test sets to evaluate all RA methods.Table 2 presents the parameters of the semi-supervised and supervised methods, along with their type and the value that was set during the re-ID experiments. Note that a parameter setting of default means that for each query in the training set, the value taken is equal to the total number of relevant labels.
 <div align="center">
   
-![image](https://github.com/nercms-mmap/RankAggregation-Lib/assets/121333364/0095cd44-5a2a-45df-8683-5afb506727b8)
-
-
+![image](https://github.com/nercms-mmap/RankAggregation-Lib/assets/121333364/378eb7ed-bde0-434a-a76c-30fd245f2ff9)
 
 Table 2: The parameters of the supervised ranking aggregation methods
 </div>
@@ -48,6 +46,8 @@ The final result of all RA methods is shown in Table 3.
 
 Table 3: Rank@1(%) and mAP(%) results for ranking aggregation methods on re-ID datasets
 </div>
+
+
 
 
 
