@@ -38,7 +38,7 @@ we use official training sets to train basic re-ID and fully-supervised RA metho
 Table 2: The parameters of the supervised ranking aggregation methods
 </div>
 
-The final result of all RA methods is shown in Table 3.
+Table 3 shows the results of the experiment conducted on the four re-ID datasets, representing the quality of all ranking aggregation methods.
 
 <div align="center">
 
