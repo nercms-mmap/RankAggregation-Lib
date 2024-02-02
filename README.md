@@ -33,7 +33,6 @@ we use official training sets to train basic re-ID and fully-supervised RA metho
 <div align="center">
   
 ![image](https://github.com/nercms-mmap/RankAggregation-Lib/assets/121333364/378eb7ed-bde0-434a-a76c-30fd245f2ff9)
-
 Table 2: The parameters of the supervised ranking aggregation methods
 </div>
 
@@ -42,8 +41,6 @@ The final result of all RA methods is shown in Table 3.
 <div align="center">
 
 ![QQ截图20240131000101](https://github.com/nercms-mmap/RankAggregation-Lib/assets/121333364/4bf6c2e2-8187-4527-a48d-1d4dfd929304)
-
-
 Table 3: Rank@1(%) and mAP(%) results for ranking aggregation methods on re-ID datasets
 </div>
 
