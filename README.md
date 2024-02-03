@@ -1,10 +1,33 @@
-# Unsupervised-RA-methods
-These unsupervised RA methods were tested on our preprocessed dataset and the results of our preprocessing are in the folder. There are more than 20 of these methods including classic RA methods and state-of-the-aet RA methods, if there is a need to test other datasets, please follow the comments in the code for dataset preprocessing and code modification.
+# Ranking Aggregation(RA) methods
+More than 20 of unsupervised RA methods, 6 supervised RA methods and 1 semi-supervised RA methods were tested on our preprocessed dataset and the results of our preprocessing are in the folder. These methods including classic RA methods and state-of-the-art RA methods, if there is a need to test other datasets, please follow the comments in the code for dataset preprocessing and code modification.
 
 ## Getting Started
-To run your example in Python, open unsupervised RA methods_python/algorithm and then select the method you want to use. Please pay attention to change your dataset file to our corresponding format:  
-Define the input to the method as a csv file format: Query | Voter name | Item Code | Item Rank  
-Define the final output of the method as a csv file format： Query | Item Code | Item Rank  
+To run your example in Python, open unsupervised RA methods_python/algorithm and then select the method you want to use. Please pay attention to change your dataset file to our corresponding format.
+
+Define the input to the method as a csv file format, the columns of this CSV file must be organized in the following manner:
+
+**Query, Voter name, Item Code, Item Rank**
+
+where
+
+- **Query** represents the topic for which the preference list is submitted,
+- **Voter** is the name of the ranker who submitted a preference list for a particular **Query**,
+- **Item Code** is a unique name that identifies each element of the preference lists,
+- **Item Rank** is the preference rank assigned to an item by a Voter.
+
+If you need to test our supervised or semi-supervised methods, then we need relevance judgments for the preference list elements of the primary input file for each query. It is organized in the following fashion:
+
+**Query, 0, Item Code, Relevance**
+
+where
+
+- **Query** represents the topic for which the preference list is submitted,
+- **0:** unused. This value must be always 0.
+- **Item Code** is a unique name that identifies each element of the preference lists,
+- **Relevance** is an integer value that represents the relevance of the item with respect to the mentioned Query. Typically, zero values represent irrelevant and incorrect elements and positive values represent relevant, correct and informative elements.
+
+Similarly, we define the final output of the methods as a csv file which is organized in the following manner：**Query, Item Code, Item Rank**
+
 We also provide a partially processed dataset in our dataset.zip file, you are welcome to use our code and test our code here!
 
 ## Test demonstrations
