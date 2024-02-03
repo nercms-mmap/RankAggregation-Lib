@@ -83,5 +83,17 @@ In bioinformatics, we select a real dataset(NSCLC) related to cancer to conduct 
 
 ![image](https://github.com/nercms-mmap/RankAggregation-Lib/assets/121333364/b511bdb8-c90e-4bf9-81d2-5dd16e7ef0f0)
 
-Table 7: Recall@400 and Recall@800 results for unsupervised RA methods on NSCLC datasets
+Table 7: Recall@400 and Recall@800 results for unsupervised RA methods on NSCLC datasets.
 </div>
+
+###  Social choices
+
+We select five popular world university rankings: ARWU, QS, THE, US-NEW and URAP, where there is duplication of top-200 universities. In the five university rankings, because some universities appear in one ranking but not in another, we process the data for these five popular world university rankings. Specifically, we take the rank of the basic university ranked in its basic ranking for the duplicates. Furthermore, We first collect the set of all universities for these five universities rankings, and if a university does not appear in a particular basic ranking, we set that university to be the 201st in this basic ranking of that university ranking, and so on, until all five university rankings are processed. Eventually, we obtain and aggregate five ranking for an equal number of universities. We measure the normality and the overall impartiality to represent the quality of an aggregated list. The result of all unsupervised RA methods is shown in Table 8.
+
+<div align="center">
+
+![image](https://github.com/nercms-mmap/RankAggregation-Lib/assets/121333364/d5471b42-cfb7-4598-9c55-7ce6491b660d)
+
+Table 8: Normality and the overall of impartiality results for unsupervised RA methods on World University Ranking 2022.
+</div>
+
