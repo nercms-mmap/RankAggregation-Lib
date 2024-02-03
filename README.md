@@ -94,6 +94,6 @@ We select five popular world university rankings: ARWU, QS, THE, US-NEW and URAP
 
 ![image](https://github.com/nercms-mmap/RankAggregation-Lib/assets/121333364/d5471b42-cfb7-4598-9c55-7ce6491b660d)
 
-Table 8: Normality and the overall of impartiality results for unsupervised RA methods on World University Ranking 2022.
+Table 8: Normality and the overall of impartiality results for unsupervised RA methods on World University Ranking.
 </div>
 
