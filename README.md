@@ -121,3 +121,36 @@ Table 8: Normality and the overall of impartiality results for unsupervised RA m
 </div>
 
 ## Reference
+ [[1]](https://openaccess.thecvf.com/content_ICCV_2019/html/Dai_Batch_DropBlock_Network_for_Person_Re-Identification_and_Beyond_ICCV_2019_paper.html) Dai, Zuozhuo, et al. "Batch dropblock network for person re-identification and beyond." Proceedings of the IEEE/CVF international conference on computer vision. 2019.
+ 
+ [[2]](https://openaccess.thecvf.com/content_CVPRW_2019/html/TRMTMCT/Luo_Bag_of_Tricks_and_a_Strong_Baseline_for_Deep_Person_CVPRW_2019_paper.html) Luo, Hao, et al. "Bag of tricks and a strong baseline for deep person re-identification." Proceedings of the IEEE/CVF conference on computer vision and pattern recognition workshops. 2019.
+
+ [[3]](https://ieeexplore.ieee.org/abstract/document/9412017) Quispe, Rodolfo, and Helio Pedrini. "Top-db-net: Top dropblock for activation enhancement in person re-identification." 2020 25th International conference on pattern recognition (ICPR). IEEE, 2021.
+
+ [[4]](https://ieeexplore.ieee.org/abstract/document/9506733) Herzog, Fabian, et al. "Lightweight multi-branch network for person re-identification." 2021 IEEE International Conference on Image Processing (ICIP). IEEE, 2021.
+
+ [[5]](https://arxiv.org/abs/2108.01901) Zhang, Suofei, et al. "FPB: feature pyramid branch for person re-identification." arXiv preprint arXiv:2108.01901 (2021).
+
+ [[6]](https://openaccess.thecvf.com/content/CVPR2021/html/Fu_Unsupervised_Pre-Training_for_Person_Re-Identification_CVPR_2021_paper.html) Fu, Dengpan, et al. "Unsupervised pre-training for person re-identification." Proceedings of the IEEE/CVF conference on computer vision and pattern recognition. 2021.
+
+ [[7]](https://www.cv-foundation.org/openaccess/content_iccv_2015/html/Zheng_Scalable_Person_Re-Identification_ICCV_2015_paper.html) Zheng, Liang, et al. "Scalable person re-identification: A benchmark." Proceedings of the IEEE international conference on computer vision. 2015.
+
+ [[8]](https://link.springer.com/chapter/10.1007/978-3-319-48881-3_2) Ristani, Ergys, et al. "Performance measures and a data set for multi-target, multi-camera tracking." European conference on computer vision. Cham: Springer International Publishing, 2016.
+
+ [[9]](https://openaccess.thecvf.com/content_cvpr_2014/html/Li_DeepReID_Deep_Filter_2014_CVPR_paper.html) Li, Wei, et al. "Deepreid: Deep filter pairing neural network for person re-identification." Proceedings of the IEEE conference on computer vision and pattern recognition. 2014.
+
+ [[10]](https://ieeexplore.ieee.org/abstract/document/9336268) Ye, Mang, et al. "Deep learning for person re-identification: A survey and outlook." IEEE transactions on pattern analysis and machine intelligence 44.6 (2021): 2872-2893.
+
+ [[11]](https://dl.acm.org/doi/abs/10.1145/3365375) Oliveira, Samuel EL, et al. "Is rank aggregation effective in recommender systems? an experimental analysis." ACM Transactions on Intelligent Systems and Technology (TIST) 11.2 (2020): 1-26.
+
+ [[12]](https://github.com/lenskit/lkpy) Michael D. Ekstrand. 2020. LensKit for Python: Next-Generation Software for Recommender Systems Experiments. In Proceedings of the 29th ACM International Conference on Information and Knowledge Management (CIKM '20). DOI:10.1145/3340531.3412778. arXiv:1809.03125 [cs.IR].
+ 
+ [[13]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4178426/) Kerkentzes, Konstantinos, et al. "Hidden treasures in “ancient” microarrays: gene-expression portrays biology and potential resistance pathways of major lung cancer subtypes and normal tissue." Frontiers in oncology 4 (2014): 251.
+ 
+ [[14]](https://link.springer.com/article/10.1007/s13277-015-3576-y) Li, Yafang, et al. "RNA-seq analysis of lung adenocarcinomas reveals different gene expression profiles between smoking and nonsmoking patients." Tumor Biology 36 (2015): 8993-9003.
+
+ [[15]](https://www.nature.com/articles/onc2016242) Zhou, Y., et al. "microRNAs with AAGUGC seed motif constitute an integral part of an oncogenic signaling network." Oncogene 36.6 (2017): 731-745.
+
+ [[16]](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0055596) Kim, Sang Cheol, et al. "A high-dimensional, deep-sequencing study of lung adenocarcinoma in female never-smokers." PloS one 8.2 (2013): e55596.
+
+ [[17]](https://academic.oup.com/bioinformatics/article/38/21/4927/6696211) Wang, Bo, et al. "Systematic comparison of ranking aggregation methods for gene lists in experimental results." Bioinformatics 38.21 (2022): 4927-4933.
