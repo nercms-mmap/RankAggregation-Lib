@@ -61,7 +61,7 @@ We selecte six recommendation algorithms(UserUser, BiasedMF, FunkSVD, ImplicitMF
 
 Table 4: The parameters of the recommendation algorithms.
 
-![image](https://github.com/nercms-mmap/RankAggregation-Lib/assets/121333364/084ef917-f1dc-4c4c-ace3-8e1e61dfade4)
+![image](https://github.com/nercms-mmap/RankAggregation-Lib/assets/121333364/4124002a-1939-49f2-a6fc-146f84d2799a)
 
 Table 5: Rank@1(%) and mAP(%) results for selected recommendation algorithms on MovieLens 1M dataset.
 </div>
