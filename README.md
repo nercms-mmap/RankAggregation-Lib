@@ -1,7 +1,7 @@
 # Ranking Aggregation(RA) methods
 More than 20 of unsupervised RA methods, 6 supervised RA methods and 1 semi-supervised RA methods were tested on our preprocessed dataset and the results of our preprocessing are in the folder. These methods including classic RA methods and state-of-the-art RA methods, if there is a need to test other datasets, please follow the comments in the code for dataset preprocessing and code modification.
 
-## Getting Started
+## Get Started
 To run your example in Python, open unsupervised RA methods_python/algorithm and then select the method you want to use. Please pay attention to change your dataset file to our corresponding format.
 
 Define the input to the method as a csv file format, the columns of this CSV file must be organized in the following manner:
@@ -120,3 +120,4 @@ We select five popular world university rankings: ARWU, QS, THE, US-NEW and URAP
 Table 8: Normality and the overall of impartiality results for unsupervised RA methods on World University Ranking.
 </div>
 
+## Reference
