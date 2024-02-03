@@ -42,7 +42,7 @@ Table 3 shows the results of the experiment conducted on the four re-ID datasets
 
 <div align="center">
 
-![image](https://github.com/nercms-mmap/RankAggregation-Lib/assets/121333364/893b5265-2e48-4187-b043-23e2f163b0ea)
+![image](https://github.com/nercms-mmap/RankAggregation-Lib/assets/121333364/f0c7f277-b2ba-4bce-8255-ed3f867db34b)
 
 Table 3: Rank@1(%) and mAP(%) results for ranking aggregation methods on re-ID datasets.
 </div>
