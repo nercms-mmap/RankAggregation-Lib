@@ -1,5 +1,5 @@
 # Ranking Aggregation(RA) methods
-20 unsupervised RA methods, 6 supervised RA methods and 1 semi-supervised RA methods were tested on our preprocessed dataset and the results of our preprocessing are in the folder. These methods including classic RA methods and state-of-the-art RA methods, if there is a need to test other datasets, please follow the comments in the code for dataset preprocessing and code modification.
+20 unsupervised RA methods, 6 supervised RA methods and 1 semi-supervised RA methods were tested on our preprocessed datasets where the datasets cover the areas of person re-identification, recommendation system, bioinformatics and social choices. These methods including classic RA methods and state-of-the-art RA methods, if there is a need to test other datasets, please follow the comments in the code for dataset preprocessing and code modification.
 
 ## Get Started
 To run your example in Python, open unsupervised RA methods_python/algorithm and then select the method you want to use. Please ensure you modify your dataset file to match our specified format.
@@ -156,3 +156,7 @@ Table 8: Normality and the overall of impartiality results for unsupervised RA m
  [[17]](https://academic.oup.com/bioinformatics/article/38/21/4927/6696211) Wang, Bo, et al. "Systematic comparison of ranking aggregation methods for gene lists in experimental results." Bioinformatics 38.21 (2022): 4927-4933.
 
  [[18]](https://ieeexplore.ieee.org/abstract/document/10391254) Feng, Shiwei, et al. "An Experimental Study of Unsupervised Rank Aggregation Methods in World University Rankings." 2023 International Conference on Intelligent Education and Intelligent Research (IEIR). IEEE, 2023.
+
+ ## Contacts
+
+ If you encounter any problems, you can contact us via email 2021302111226@whu.edu.cn
