@@ -77,7 +77,7 @@ Table 6: Rank@1(%) and mAP(%) results for ranking aggregation methods on MovieLe
 
 ### Bioinformatics
 
-In bioinformatics, we select a real dataset(NSCLC) related to cancer to conduct our experiment. Because there is no labeled data in the NSCLC dataset, we do not measure supervised and semi-supervised RA methods on NSCLC. The NSCLC dataset consists of four basic rankings which are of length 2270, 275, 543, 3501. The sources of them are [Kerkentzes et al. (2014)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4178426/), [Li et al. (2015)](https://pubmed.ncbi.nlm.nih.gov/26081616/), [Zhou et al. (2017)](https://www.nature.com/articles/onc2016242) and [Kim et al. (2013)](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0055596). We consider the recall performance criteria in the aggregated list based on the top 400 and 800 genes.Thus, the result of all unsupervised RA methods is shown in Table 7.
+In bioinformatics, we select a real dataset(NSCLC) related to cancer to conduct our experiment. Because there is no labeled data in the NSCLC dataset, we do not measure supervised and semi-supervised RA methods on NSCLC. The NSCLC dataset consists of four basic rankings which are of length 2270, 275, 543, 3501. The sources of them are [Kerkentzes et al. (2014)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4178426/), [Li et al. (2015)](https://pubmed.ncbi.nlm.nih.gov/26081616/), [Zhou et al. (2017)](https://www.nature.com/articles/onc2016242) and [Kim et al. (2013)](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0055596). We consider the recall performance criteria in the aggregated list based on the top 400 and 800 genes. Thus, the result of all unsupervised RA methods is shown in Table 7.
 
 <div align="center">
 
