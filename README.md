@@ -81,7 +81,7 @@ In bioinformatics, we select a real dataset(NSCLC) related to cancer to conduct 
 
 <div align="center">
 
-![image](https://github.com/nercms-mmap/RankAggregation-Lib/assets/121333364/bff74db5-f28b-4161-9e38-53ea73ebed55)
+![image](https://github.com/nercms-mmap/RankAggregation-Lib/assets/121333364/ff61aea3-a254-4c48-ada2-03c5dec653d8)
 
 Table 7: Recall@400(%) and Recall@800(%) results for unsupervised RA methods on NSCLC datasets.
 </div>
@@ -92,7 +92,7 @@ We select five popular world university rankings: ARWU, QS, THE, US-NEW and URAP
 
 <div align="center">
 
-![image](https://github.com/nercms-mmap/RankAggregation-Lib/assets/121333364/d5471b42-cfb7-4598-9c55-7ce6491b660d)
+![image](https://github.com/nercms-mmap/RankAggregation-Lib/assets/121333364/f853bb7e-62b3-41c6-96b8-f57b156f973b)
 
 Table 8: Normality and the overall of impartiality results for unsupervised RA methods on World University Ranking.
 </div>
