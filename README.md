@@ -10,7 +10,7 @@ Define the input to the method as a csv file format, The columns in this CSV fil
 
 where
 
-- **Query** represents the topic for which the preference list is submitted.
+- **Query** is the topic for which the preference list is submitted.
 - **Voter** is the name of the ranker who submitted a preference list for a particular **Query**.
 - **Item Code** is a unique name that identifies each element of the preference lists.
 - **Item Rank** is the preference rank assigned to an item by a Voter.
@@ -21,7 +21,7 @@ If you need to test our supervised or semi-supervised methods, then we need rele
 
 where
 
-- **Query** represents the topic for which the preference list is submitted.
+- **Query** is the topic for which the preference list is submitted.
 - **0:** unused. This value must be always 0.
 - **Item Code** is a unique name that identifies each element of the preference lists.
 - **Relevance** is an integer value that represents the relevance of the item with respect to the mentioned Query. Typically, zero values represent irrelevant and incorrect elements and positive values represent relevant, correct and informative elements.
@@ -111,7 +111,7 @@ Table 7: Recall@400(%) and Recall@800(%) results for unsupervised RA methods on 
 
 ###  Social choices
 
-We select five popular world university rankings: ARWU, QS, THE, US-NEW and URAP, where there is duplication of top-200 universities. In the five university rankings, because some universities appear in one ranking but not in another, we process the data for these five popular world university rankings. Specifically, we take the rank of the basic university ranked in its basic ranking for the duplicates. Furthermore, We first collect the set of all universities for these five universities rankings, and if a university does not appear in a particular basic ranking, we set that university to be the 201st in this basic ranking of that university ranking, and so on, until all five university rankings are processed. Eventually, we obtain and aggregate five ranking for an equal number of universities. We measure the normality and the overall impartiality to represent the quality of an aggregated list. The result of all unsupervised RA methods is shown in Table 8.
+We select five popular world university rankings: [[ARWU]](https://www.shanghairanking.com/), [[QS]](https://www.qs.com/rankings-performance/), [[THE]](https://www.int-res.com/abstracts/esep/v13/n2/p125-130/), [[US-NEW]](https://www.usnews.com/best-colleges)  and [[URAP]](https://urapcenter.org/), where there is duplication of top-200 universities. In the five university rankings, because some universities appear in one ranking but not in another, we process the data for these five popular world university rankings. Specifically, we take the rank of the basic university ranked in its basic ranking for the duplicates. Furthermore, We first collect the set of all universities for these five universities rankings, and if a university does not appear in a particular basic ranking, we set that university to be the 201st in this basic ranking of that university ranking, and so on, until all five university rankings are processed. Eventually, we obtain and aggregate five ranking for an equal number of universities. We measure the normality and the overall impartiality to represent the quality of an aggregated list. The result of all unsupervised RA methods is shown in Table 8.
 
 <div align="center">
 
@@ -154,3 +154,5 @@ Table 8: Normality and the overall of impartiality results for unsupervised RA m
  [[16]](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0055596) Kim, Sang Cheol, et al. "A high-dimensional, deep-sequencing study of lung adenocarcinoma in female never-smokers." PloS one 8.2 (2013): e55596.
 
  [[17]](https://academic.oup.com/bioinformatics/article/38/21/4927/6696211) Wang, Bo, et al. "Systematic comparison of ranking aggregation methods for gene lists in experimental results." Bioinformatics 38.21 (2022): 4927-4933.
+
+ [[18]](https://ieeexplore.ieee.org/abstract/document/10391254) Feng, Shiwei, et al. "An Experimental Study of Unsupervised Rank Aggregation Methods in World University Rankings." 2023 International Conference on Intelligent Education and Intelligent Research (IEIR). IEEE, 2023.
