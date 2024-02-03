@@ -70,7 +70,7 @@ Different ranking aggregation methods will combine the six recommendations into 
 
 <div align="center">
 
-![image](https://github.com/nercms-mmap/RankAggregation-Lib/assets/121333364/d44c073c-af6e-4755-8b12-22724e6951bf)
+![image](https://github.com/nercms-mmap/RankAggregation-Lib/assets/121333364/7b221691-5691-4b02-9cd4-268a65f7fcc1)
 
 Table 6: Rank@1(%) and mAP(%) results for ranking aggregation methods on MovieLens 1M datasets
 </div>
