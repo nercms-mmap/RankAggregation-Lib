@@ -10,6 +10,7 @@
 │  
 ├─datasets
 │      .gitattributes
+│      MovieLens 1M
 │      CHUK03_detected.zip
 │      CUHK03_labeled.zip
 │      DukeMTMC-ReID.zip
