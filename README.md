@@ -1,6 +1,101 @@
 # Ranking Aggregation(RA) methods
 20 unsupervised RA methods, 6 supervised RA methods and 1 semi-supervised RA methods were tested on our preprocessed datasets where the datasets cover the areas of person re-identification, recommendation system, bioinformatics and social choices. These methods including classic RA methods and state-of-the-art RA methods, if there is a need to test other datasets, please follow the comments in the code for dataset preprocessing and code modification.
 
+# Directory structure
+```
+│  example1.ipynb
+│  example2.ipynb
+│  list.txt
+│  README.md
+│  
+├─datasets
+│      .gitattributes
+│      CHUK03_detected.zip
+│      CUHK03_labeled.zip
+│      DukeMTMC-ReID.zip
+│      FLAGR.zip
+│      ice-cream.zip
+│      Market1501.zip
+│      MQ2008-agg.zip
+│      NSCLC.zip
+│      World University Ranking 2022.zip
+│      
+├─semi-supervised
+│      SSRA.py
+│      
+├─supervised
+│  ├─matlab
+│  │      compute_AP.m
+│  │      evaluation.m
+│  │      m_QT_IRA.m
+│  │      m_Rank_based_IRA.m
+│  │      m_Score_based_IRA.m
+│  │      QT_IRA.m
+│  │      Rank_based_IRA.m
+│  │      Score_based_IRA.m
+│  │      
+│  └─python
+│          AggRankDE.py
+│          CRF.py
+│          Evaluation.py
+│          SupCondorcet.py
+│          WeightedBorda.py
+│          
+└─unsupervised
+    ├─matlab
+    │      BordaCount.m
+    │      CG.m
+    │      CombANZ.m
+    │      CombMAX.m
+    │      CombMED.m
+    │      CombMIN.m
+    │      CombMNZ.m
+    │      CombSUM.m
+    │      Condorcet.m
+    │      DIBRA.m
+    │      Dowdall.m
+    │      EnsembleRanking.m
+    │      ER.m
+    │      HPA.m
+    │      hpa_func.m
+    │      ice-cream.mat
+    │      iRank.m
+    │      Matrix-ice-cream.mat
+    │      Mean.m
+    │      Median.m
+    │      PostNDCG.m
+    │      RRF.m
+    │      unsupervised RA methods.ipynb
+    │      
+    └─python
+            Agglomerative.py
+            BordaCount.py
+            CG.py
+            CombANZ.py
+            CombMAX.py
+            CombMED.py
+            CombMIN.py
+            CombMNZ.py
+            CombSUM.py
+            Comb_Family.py
+            Condorcet.py
+            Copeland.py
+            Dowdall.py
+            evaluate.py
+            flagr_RA.py
+            MarkovChain.py
+            Mean.py
+            Medium.py
+            Outranking.py
+            PrefRel.py
+            preprocess.py
+            RRF.py
+            run_algorithm.py
+            scorefunc.py
+            unsupervised RA methods.ipynb
+            WT_INDEG.py
+```
+
 ## Get Started
 To run your example in Python, open unsupervised RA methods_python/algorithm and then select the method you want to use. Please ensure you modify your dataset file to match our specified format.
 
