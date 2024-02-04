@@ -9,13 +9,12 @@
 │  README.md
 │  
 ├─datasets
-│      .gitattributes
 │      MovieLens 1M
-│      FLAGR.zip
-│      ice-cream.zip
-│      MQ2008-agg.zip
-│      NSCLC.zip
-│      World University Ranking 2022.zip
+│      FLAGR
+│      ice-cream
+│      MQ2008-agg
+│      NSCLC
+│      World University Ranking 2022
 │      
 ├─semi-supervised
 │      SSRA.py
