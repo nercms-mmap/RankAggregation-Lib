@@ -11,12 +11,8 @@
 ├─datasets
 │      .gitattributes
 │      MovieLens 1M
-│      CHUK03_detected.zip
-│      CUHK03_labeled.zip
-│      DukeMTMC-ReID.zip
 │      FLAGR.zip
 │      ice-cream.zip
-│      Market1501.zip
 │      MQ2008-agg.zip
 │      NSCLC.zip
 │      World University Ranking 2022.zip
