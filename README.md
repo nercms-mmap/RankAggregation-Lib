@@ -1,5 +1,5 @@
 # Ranking Aggregation(RA) methods
-20 unsupervised RA methods, 6 supervised RA methods and 1 semi-supervised RA methods were tested on our preprocessed datasets where the datasets cover the areas of person re-identification, recommendation system, bioinformatics and social choices. These methods including classic RA methods and state-of-the-art RA methods, if there is a need to test other datasets, please follow the comments in the code for dataset preprocessing and code modification.
+20 unsupervised RA methods, 6 supervised RA methods and 1 semi-supervised RA methods were tested on our preprocessed datasets. These datasets cover the areas of person re-identification(re-ID), recommendation system, bioinformatics and social choices. The tested methods include both classical and state-of-the-art RA methods. If there is a need to test other datasets, please follow the instructions in the code comments for dataset preprocessing and necessary code modifications.
 
 # Directory structure
 ```
@@ -121,10 +121,10 @@ Similarly, we define the final output of the methods as a csv file which is orga
 
 We also provide a partially processed dataset in our dataset.zip file, you are welcome to use our code and test our code here!
 
-## Test demonstrations
+## Test Demonstrations
 We selected several different unsupervised RA methods for simple test demonstrations, as can be seen in example1.ipynb (Dataset: MQ2007) and example2.ipynb (Dataset: Ice-cream flavor)
 
-## Follow-up plan
+## Follow-up Plan
 We will be updating more RA methods for share use.
 
 ## Experiments
@@ -135,7 +135,7 @@ In Re-identification(re-ID) datasets, we choose 6 feature extraction methods(BDB
 
 All experiments are conducted on Intel Xeon Silver 4215 (2.50GHz) and 4 Nvidia RTX A6000. It is important to note that MC1-4 methods are very difficult to test on the full Market1501 and DukeMTMC-reID datasets, requiring more than 40,000 hours in our experimental environment. Therefore, we conduct a cut-off operation for these two datasets on the basic rankings to refine our experiments as follows: we take out top-K items from all basic rankings to form a new itemset, and find the items in this itemset that were not originally present in specific basic ranking to add after the $k_{th}$ item of the basic ranking to finally obtain a new basic ranking. We use the MC1-4 method to aggregate the new basic rankings to a new one $R_{\tau}$. After aggregation, the items except itemset, we randomly sort them to the back of $R_{\tau}$ be the MC1-4 (top-K).
 
-The result of initial rankings (BDB, BOT, Top-DB-Net-RK, LightMBN, FPB, LUPerson) is shown in Table 1.
+The result of basic rankings (BDB, BOT, Top-DB-Net-RK, LightMBN, FPB, LUPerson) is shown in Table 1.
 
 <div align="center">
   
@@ -161,7 +161,7 @@ Table 3 shows the results of the experiment conducted on the four re-ID datasets
 Table 3: Rank@1(%) and mAP(%) results for ranking aggregation methods on re-ID datasets.
 </div>
 
-### Recommendation system
+### Recommendation System
 
 In recommendation system dataset (MovieLens 1M), we perform a two-step pre-processing before giving them as input to the recommendation algorithms: (i) Binarization of the ratings of the datasets, as the items are considered only as relevant or irrelevant in the top-N recommendation task, whichs means an item is relevant to a user if its rating is greater than the median of the ratings given by the user. (ii) Removal of users and items that do not reach a predefined threshold value regarding frequency of ratings, which means we removed from the dataset infrequent items and users that rated very few items. Items rated by less than 10 users were removed, together with users that had rated less than 10 items.
 
@@ -200,7 +200,7 @@ In bioinformatics, we select a real dataset(NSCLC) related to cancer to conduct 
 Table 7: Recall@400(%) and Recall@800(%) results for unsupervised RA methods on NSCLC datasets.
 </div>
 
-###  Social choices
+###  Social Choices
 
 We select five popular world university rankings: [[ARWU]](https://www.shanghairanking.com/), [[QS]](https://www.qs.com/rankings-performance/), [[THE]](https://www.int-res.com/abstracts/esep/v13/n2/p125-130/), [[US-NEW]](https://www.usnews.com/best-colleges)  and [[URAP]](https://urapcenter.org/), where there is duplication of top-200 universities. In the five university rankings, because some universities appear in one ranking but not in another, we process the data for these five popular world university rankings. Specifically, we take the rank of the basic university ranked in its basic ranking for the duplicates. Furthermore, We first collect the set of all universities for these five universities rankings, and if a university does not appear in a particular basic ranking, we set that university to be the 201st in this basic ranking of that university ranking, and so on, until all five university rankings are processed. Eventually, we obtain and aggregate five ranking for an equal number of universities. We measure the normality and the overall impartiality to represent the quality of an aggregated list. The result of all unsupervised RA methods is shown in Table 8.
 
