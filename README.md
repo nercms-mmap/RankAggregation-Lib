@@ -30,7 +30,7 @@
                 <li>$\textrm{Dowdall}$ <a href="#Dowdall">[4]</li>
                 <li>$\textrm{Median}$ <a href="#Median">[5]</li>
                 <li>$\textrm{RRF}$ <a href="#RRF">[6]</li>
-                <li>$\textrm{iRANK}$ <a href="#iRank">[7]</li>
+                <li>$\textrm{iRANK}$ <a href="#iRANK">[7]</li>
                 <li>$\textrm{Mean}$ <a href="#Mean">[8]</li>
                 <li>$\textrm{HPA}$ <a href="#HPA&postNDCG">[9]</li>
                 <li>$\textrm{PostNDCG}$ <a href="#HPA&postNDCG">[9]</li>
