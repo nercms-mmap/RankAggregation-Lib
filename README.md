@@ -184,7 +184,7 @@ The result of basic rankings (BDB, BOT, Top-DB-Net-RK, LightMBN, FPB, LUPerson) 
 
 <div align="center">
   
-![image](https://github.com/nercms-mmap/RankAggregation-Lib/assets/121333364/7a8e9a23-d9dc-4262-a7a0-bc962fc3081b)
+![image](https://github.com/nercms-mmap/RankAggregation-Lib/assets/121333364/bac6aec4-37eb-4a64-8915-c54238c561f3)
 
 Table 1: Rank@1(%) and mAP(%) [[29]](#rank1) results for selected feature extraction methods on re-ID datasets.
 </div>
@@ -192,7 +192,7 @@ Table 1: Rank@1(%) and mAP(%) [[29]](#rank1) results for selected feature extrac
 we use official training sets to train basic re-ID and fully-supervised RA methods, and use official test sets to evaluate all RA methods.Table 2 presents the parameters of the semi-supervised and supervised methods, along with their type and the value that was set during the re-ID experiments. Note that a parameter setting of default means that for each query in the training set, the value taken is equal to the total number of relevant labels.
 <div align="center">
   
-![image](https://github.com/nercms-mmap/RankAggregation-Lib/assets/121333364/378eb7ed-bde0-434a-a76c-30fd245f2ff9)
+![SupPara](https://github.com/nercms-mmap/RankAggregation-Lib/assets/121333364/e65cbb92-416e-454e-af09-9a3eea982c7e)
 
 Table 2: The parameters of the supervised ranking aggregation methods.
 </div>
@@ -201,7 +201,7 @@ Table 3 shows the results of the experiment conducted on the four re-ID datasets
 
 <div align="center">
 
-![image](https://github.com/nercms-mmap/RankAggregation-Lib/assets/121333364/f0c7f277-b2ba-4bce-8255-ed3f867db34b)
+![Re-ID](https://github.com/nercms-mmap/RankAggregation-Lib/assets/121333364/58eeea2b-56bf-4e3e-97e1-286306be880a)
 
 Table 3: Rank@1(%) and mAP(%) results for ranking aggregation methods on re-ID datasets.
 </div>
@@ -216,11 +216,11 @@ We selecte six recommendation algorithms [[31]](#lenskit) (UserUser, BiasedMF, F
 
 <div align="center">
 
-![image](https://github.com/nercms-mmap/RankAggregation-Lib/assets/121333364/a5f07c8c-369b-4ce9-9e26-8e3ccdd268da)
+![RecPara](https://github.com/nercms-mmap/RankAggregation-Lib/assets/121333364/606baf2e-ef0a-4a1a-9f62-aa4d45b1a0e3)
 
 Table 4: The parameters of the recommendation algorithms.
 
-![image](https://github.com/nercms-mmap/RankAggregation-Lib/assets/121333364/4124002a-1939-49f2-a6fc-146f84d2799a)
+![Rec-ini](https://github.com/nercms-mmap/RankAggregation-Lib/assets/121333364/41b3c3ac-d53b-45f4-a74b-0272fd6f46a3)
 
 Table 5: Rank@1(%) and mAP(%) results for selected recommendation algorithms on MovieLens 1M dataset.
 </div>
@@ -229,7 +229,7 @@ Different ranking aggregation methods will combine the six recommendations into 
 
 <div align="center">
 
-![image](https://github.com/nercms-mmap/RankAggregation-Lib/assets/121333364/7b221691-5691-4b02-9cd4-268a65f7fcc1)
+![ml](https://github.com/nercms-mmap/RankAggregation-Lib/assets/121333364/a22ac931-c3b1-4412-9efd-414b2596fbcf)
 
 Table 6: Rank@1(%) and mAP(%) results for ranking aggregation methods on MovieLens 1M datasets
 </div>
@@ -240,7 +240,7 @@ In bioinformatics, we select a real dataset(NSCLC) related to cancer to conduct 
 
 <div align="center">
 
-![image](https://github.com/nercms-mmap/RankAggregation-Lib/assets/121333364/ff61aea3-a254-4c48-ada2-03c5dec653d8)
+![NSCLC](https://github.com/nercms-mmap/RankAggregation-Lib/assets/121333364/7dd85d0c-668d-4065-99cb-ac420d7cd8aa)
 
 Table 7: Recall@400(%) and Recall@800(%) [[36]](#recall) results for unsupervised RA methods on NSCLC datasets.
 </div>
@@ -251,7 +251,7 @@ We select five popular world university rankings: [[ARWU]](https://www.shanghair
 
 <div align="center">
 
-![image](https://github.com/nercms-mmap/RankAggregation-Lib/assets/121333364/f853bb7e-62b3-41c6-96b8-f57b156f973b)
+![SC](https://github.com/nercms-mmap/RankAggregation-Lib/assets/121333364/cc1d411b-2979-4c4c-94c1-b26faadf5a13)
 
 Table 8: Normality and the overall of impartiality results for unsupervised RA methods on World University Ranking.
 </div>
