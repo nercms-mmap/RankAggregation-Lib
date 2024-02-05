@@ -5,7 +5,6 @@
 ```
 │  example1.ipynb
 │  example2.ipynb
-│  list.txt
 │  README.md
 │  
 ├─datasets
