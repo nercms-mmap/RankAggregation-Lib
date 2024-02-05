@@ -200,7 +200,7 @@ Table 3 shows the results of the experiment conducted on the four re-ID datasets
 
 ![image](https://github.com/nercms-mmap/RankAggregation-Lib/assets/121333364/930d9e18-3327-4ec7-ba95-0502672c3d40)
 
-Table 3: Rank@1(%) and mAP(%) results for ranking aggregation methods on re-ID datasets.
+Table 3: Rank@1(%) and mAP(%)[[30]](#RS) results for ranking aggregation methods on re-ID datasets.
 </div>
 
 ### Recommendation System
@@ -228,7 +228,7 @@ Different ranking aggregation methods will combine the six recommendations into 
 
 ![ml](https://github.com/nercms-mmap/RankAggregation-Lib/assets/121333364/a22ac931-c3b1-4412-9efd-414b2596fbcf)
 
-Table 6: Rank@1(%) and mAP(%) results for ranking aggregation methods on MovieLens 1M datasets
+Table 6: Rank@1(%) and mAP@10(%)[[30]](#RS) results for ranking aggregation methods on MovieLens 1M datasets
 </div>
 
 ### Bioinformatics
