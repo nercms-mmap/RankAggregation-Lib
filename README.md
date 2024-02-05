@@ -139,8 +139,6 @@
 ```
 
 ## Get Started
-To run your example in Python, open the `unsupervised RA methods_python/algorithm` directory and then select the method you want to use. Please ensure you modify your dataset file to match our specified format.
-
 Define the input to the method as a CSV file format. The columns in this CSV file should be organized as follows:
 
 **Query, Voter, Item Code, Item Rank**
