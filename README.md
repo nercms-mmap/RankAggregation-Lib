@@ -45,7 +45,7 @@
                 <li>AggRankDE</li>
                 <li>QI-IRA</li>
                 <li>$\textrm{IRA}_\textrm{R}$</li>
-                <li>$IRA_{S}$</li>
+                <li>$\textrm{IRA}_\textrm{S}$</li>
         </td>
         <td>
             <ul>
