@@ -17,39 +17,40 @@
     <tr valign="top">
         <td>
             <ul>
-                <li>$\textrm{CombMIN}$</li>
-                <li>$\textrm{CombMAX}$</li>
-                <li>$\textrm{CombSUM}$</li>
-                <li>$\textrm{CombANZ}$</li>
-                <li>$\textrm{CombMNZ}$</li>
-                <li>$\textrm{MC1}$</li>
-                <li>$\textrm{MC2}$</li>
-                <li>$\textrm{MC3}$</li>
-                <li>$\textrm{MC4}$</li>
-                <li>$\textrm{Borda count}$</li>
-                <li>$\textrm{Dowdall}$</li>
-                <li>$\textrm{Median}$</li>
-                <li>$\textrm{RRF}$</li>
-                <li>$\textrm{iRANK}$</li>
-                <li>$\textrm{Mean}$</li>
-                <li>$\textrm{HPA}$</li>
-                <li>$\textrm{PostNDCG}$</li>
-                <li>$\textrm{ER}$</li>
-                <li>$\textrm{CG}$</li>
-                <li>$\textrm{DIBRA}$</li>
+                <li>$\textrm{CombMIN}$ <a href="#Comb">[1]</li>
+                <li>$\textrm{CombMAX}$ <a href="#Comb">[1]</li>
+                <li>$\textrm{CombSUM}$ <a href="#Comb">[1]</li>
+                <li>$\textrm{CombANZ}$ <a href="#Comb">[1]</li>
+                <li>$\textrm{CombMNZ}$ <a href="#Comb">[1]</li>
+                <li>$\textrm{MC1}$ <a href="#MC">[2]</li>
+                <li>$\textrm{MC2}$ <a href="#MC">[2]</li>
+                <li>$\textrm{MC3}$ <a href="#MC">[2]</li>
+                <li>$\textrm{MC4}$ <a href="#MC">[2]</li>
+                <li>$\textrm{Borda count}$ <a href="#Borda">[3]</li>
+                <li>$\textrm{Dowdall}$ <a href="#Dowdall">[4]</li>
+                <li>$\textrm{Median}$ <a href="#Median">[5]</li>
+                <li>$\textrm{RRF}$ <a href="#RRF">[6]</li>
+                <li>$\textrm{iRANK}$ <a href="#iRank">[7]</li>
+                <li>$\textrm{Mean}$ <a href="#Mean">[8]</li>
+                <li>$\textrm{HPA}$ <a href="#HPA&postNDCG">[9]</li>
+                <li>$\textrm{PostNDCG}$ <a href="#HPA&postNDCG">[9]</li>
+                <li>$\textrm{ER}$ <a href="#ER">[10]</li>
+                <li>$\textrm{CG}$ <a href="#CG">[11]</li>
+                <li>$\textrm{DIBRA}$ <a href="#DIBRA">[12]</li>
         </td>
         <td>
             <ul>
-                <li>$\textrm{wBorda}$</li>
-                <li>$\textrm{CRF}$</li>
-                <li>$\textrm{AggRankDE}$</li>
-                <li>$\textrm{IRA}_\textrm{R}$</li>
-                <li>$\textrm{IRA}_\textrm{S}$</li>
-                <li>$\textrm{QI-IRA}$</li>
+                <li>$\textrm{wBorda}$ <a href="#wBorda">[13]</li>
+                <li>$\textrm{CRF}$ <a href="#CRF">[14]</li>
+                <li>$\textrm{AggRankDE}$ <a href="#AggRankDe">[15]</li>
+                <li>$\textrm{CSRA}$ <a href="#CSRA">[16]</li>
+                <li>$\textrm{IRA}_\textrm{R}$ <a href="#IRA">[17]</li>
+                <li>$\textrm{IRA}_\textrm{S}$ <a href="#IRA">[17]</li>
+                <li>$\textrm{QI-IRA}$ <a href="#QIIRA">[18]</li>
         </td>
         <td>
             <ul>
-                <li>$\textrm{SSRA}$</li>
+                <li>$\textrm{SSRA}$ <a href="#semi">[19]</li>
         </td>
     </tbody>
 </table>
