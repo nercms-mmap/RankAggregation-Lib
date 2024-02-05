@@ -42,6 +42,7 @@
             <ul>
                 <li>$\textrm{wBorda}$</li>
                 <li>$\textrm{CRF}$</li>
+                <li>$\textrm{CSRA}$</li>
                 <li>$\textrm{AggRankDE}$</li>
                 <li>$\textrm{IRA}_\textrm{R}$</li>
                 <li>$\textrm{IRA}_\textrm{S}$</li>
