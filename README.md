@@ -56,8 +56,6 @@
 
 # Directory structure
 ```
-│  example1.ipynb
-│  example2.ipynb
 │  README.md
 │  
 ├─datasets
