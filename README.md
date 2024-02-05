@@ -93,7 +93,7 @@
 ```
 
 ## Get Started
-To run your example in Python, open unsupervised RA methods_python/algorithm and then select the method you want to use. Please ensure you modify your dataset file to match our specified format.
+To run your example in Python, open `unsupervised RA methods_python/algorithm` and then select the method you want to use. Please ensure you modify your dataset file to match our specified format.
 
 Define the input to the method as a csv file format, The columns in this CSV file should be organized as follows:
 
@@ -119,7 +119,7 @@ where
 
 Similarly, we define the final output of the methods as a csv file which is organized in the following manner：**Query, Item Code, Item Rank**
 
-We also provide a partially processed dataset in our dataset.zip file, you are welcome to use our code and test our code here!
+We also provide a partially processed dataset in our `dataset.zip` file, you are welcome to use our code and test our code here!
 
 ## Test Demonstrations
 We selected several different unsupervised RA methods for simple test demonstrations, as can be seen in example1.ipynb (Dataset: MQ2007) and example2.ipynb (Dataset: Ice-cream flavor)
