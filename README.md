@@ -64,7 +64,7 @@
 │  ├─FLAGR
 │  ├─ice-cream
 │  ├─MovieLens 1M
-│  ├─MQ2008-agg     
+│  ├─MQ2008-agg
 │  ├─NSCLC
 │  └─World University Ranking 2022
 │          
@@ -73,20 +73,35 @@
 │      
 ├─supervised
 │  ├─matlab
-│  │      compute_AP.m
-│  │      evaluation.m
-│  │      m_QT_IRA.m
-│  │      m_Rank_based_IRA.m
-│  │      m_Score_based_IRA.m
-│  │      QT_IRA.m
-│  │      Rank_based_IRA.m
-│  │      Score_based_IRA.m
-│  │      
+│  │  │  compute_AP.m
+│  │  │  evaluation.m
+│  │  │  m_QT_IRA.m
+│  │  │  m_Rank_based_IRA.m
+│  │  │  m_Score_based_IRA.m
+│  │  │  QT_IRA.m
+│  │  │  Rank_based_IRA.m
+│  │  │  Score_based_IRA.m
+│  │  │  
+│  │  └─CSRA
+│  │          block1.py
+│  │          block1.pyc
+│  │          compute_AP.m
+│  │          evaluation.m
+│  │          evaluation_weighted.m
+│  │          evaluation_weighted1.m
+│  │          evaluation_weighted2.m
+│  │          feature.py
+│  │          feature.pyc
+│  │          getFeature.py
+│  │          scBatch.py
+│  │          scBatchT.py
+│  │          scBatchT1.py
+│  │          scBatchTest.py
+│  │          
 │  └─python
 │          AggRankDE.py
 │          CRF.py
 │          Evaluation.py
-│          SupCondorcet.py
 │          WeightedBorda.py
 │          
 └─unsupervised
@@ -116,7 +131,6 @@
     │      unsupervised RA methods.ipynb
     │      
     └─python
-            Agglomerative.py
             BordaCount.py
             CG.py
             CombANZ.py
@@ -126,22 +140,16 @@
             CombMNZ.py
             CombSUM.py
             Comb_Family.py
-            Condorcet.py
-            Copeland.py
             Dowdall.py
             evaluate.py
-            flagr_RA.py
             MarkovChain.py
             Mean.py
             Medium.py
-            Outranking.py
-            PrefRel.py
             preprocess.py
             RRF.py
             run_algorithm.py
             scorefunc.py
             unsupervised RA methods.ipynb
-            WT_INDEG.py
 ```
 
 ## Get Started
