@@ -224,7 +224,7 @@ Different rank aggregation methods will combine the six recommendations into a c
 
 <div align="center">
 
-![ml](https://github.com/nercms-mmap/RankAggregation-Lib/assets/121333364/a22ac931-c3b1-4412-9efd-414b2596fbcf)
+![image](https://github.com/nercms-mmap/RankAggregation-Lib/assets/121333364/f5c8c706-4a76-4ccd-a7e1-1d6b003b7588)
 
 Table 6: Rank@1 (%) and mAP@10 (%) [[30]](#RS) results for rank aggregation methods on MovieLens 1M datasets
 </div>
