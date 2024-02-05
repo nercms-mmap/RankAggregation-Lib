@@ -254,13 +254,13 @@ Table 8: Normality and the overall of impartiality results for unsupervised RA m
 </div>
 
 ## References
-<a id="Comb">[[1]](https://books.google.com.tw/books?hl=zh-CN&lr=&id=W8MZAQAAIAAJ&oi=fnd&pg=PA243&dq=Combination+of+multiple+searches.&ots=3XwVWFAQ5n&sig=EGO4Nkeo5BIsfg0HOpiHsnNPjm4&redir_esc=y#v=onepage&q=Combination%20of%20multiple%20searches.&f=false) Comb* family: Fox, Edward, and Joseph Shaw. "Combination of multiple searches." NIST special publication SP (1994): 243-243.</a>
+<a id="Comb">[[1]](https://books.google.com.tw/books?hl=zh-CN&lr=&id=W8MZAQAAIAAJ&oi=fnd&pg=PA243&dq=Combination+of+multiple+searches.&ots=3XwVWFAQ5n&sig=EGO4Nkeo5BIsfg0HOpiHsnNPjm4&redir_esc=y#v=onepage&q=Combination%20of%20multiple%20searches.&f=false) Fox, Edward, and Joseph Shaw. "Combination of multiple searches." NIST special publication SP (1994): 243-243.</a>
 
-<a id="MC">[[2]](https://dl.acm.org/doi/abs/10.1145/371920.372165) MC1-4: Dwork, Cynthia, et al. "Rank aggregation methods for the web." Proceedings of the 10th international conference on World Wide Web. 2001.</a>
+<a id="MC">[[2]](https://dl.acm.org/doi/abs/10.1145/371920.372165) Dwork, Cynthia, et al. "Rank aggregation methods for the web." Proceedings of the 10th international conference on World Wide Web. 2001.</a>
 
-<a id="Borda">[[3]](https://dl.acm.org/doi/abs/10.1145/383952.384007) Borda count: Aslam, Javed A., and Mark Montague. "Models for metasearch." Proceedings of the 24th annual international ACM SIGIR conference on Research and development in information retrieval. 2001.</a>
+<a id="Borda">[[3]](https://dl.acm.org/doi/abs/10.1145/383952.384007) Aslam, Javed A., and Mark Montague. "Models for metasearch." Proceedings of the 24th annual international ACM SIGIR conference on Research and development in information retrieval. 2001.</a>
 
-<a id="Dowdall">[[4]](https://journals.sagepub.com/doi/abs/10.1177/0192512102023004002) Dowdall: Reilly, Benjamin. "Social choice in the south seas: Electoral innovation and the borda count in the pacific island countries." International Political Science Review 23.4 (2002): 355-372.</a>
+<a id="Dowdall">[[4]](https://journals.sagepub.com/doi/abs/10.1177/0192512102023004002) Reilly, Benjamin. "Social choice in the south seas: Electoral innovation and the borda count in the pacific island countries." International Political Science Review 23.4 (2002): 355-372.</a>
 
 <a id="Median">[[5]](https://dl.acm.org/doi/abs/10.1145/872757.872795) Fagin, Ronald, Ravi Kumar, and Dandapani Sivakumar. "Efficient similarity search and classification via rank aggregation." Proceedings of the 2003 ACM SIGMOD international conference on Management of data. 2003.</a>
 
