@@ -17,7 +17,7 @@
     <tr valign="top">
         <td>
             <ul>
-                <li>$\textrm{CombMIN}$<a id = "Comb">[1]</a></li>
+                <li>$\textrm{CombMIN}$</li>
                 <li>$\textrm{CombMAX}$</li>
                 <li>$\textrm{CombSUM}$</li>
                 <li>$\textrm{CombANZ}$</li>
