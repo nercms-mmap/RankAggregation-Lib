@@ -119,10 +119,10 @@ where
 
 Similarly, we define the final output of the methods as a csv file which is organized in the following manner：**Query, Item Code, Item Rank**
 
-We also provide a partially processed dataset in our `dataset.zip` file, you are welcome to use our code and test our code here!
+We also provide a partially processed dataset in our `dataset.zip` file. You are welcome to use our code and test it here!
 
 ## Test Demonstrations
-We selected several different unsupervised RA methods for simple test demonstrations, as can be seen in example1.ipynb (Dataset: MQ2007) and example2.ipynb (Dataset: Ice-cream flavor)
+We selected 20 different unsupervised RA methods for simple test demonstrations, as can be seen in example1.ipynb (Dataset: MQ2007) and example2.ipynb (Dataset: Ice-cream flavor)
 
 ## Follow-up Plan
 We will be updating more RA methods for share use.
