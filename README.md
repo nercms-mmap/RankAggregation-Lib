@@ -95,7 +95,7 @@
 ## Get Started
 To run your example in Python, open the `unsupervised RA methods_python/algorithm` directory and then select the method you want to use. Please ensure you modify your dataset file to match our specified format.
 
-Define the input to the method as a csv file format, The columns in this CSV file should be organized as follows:
+Define the input to the method as a CSV file format. The columns in this CSV file should be organized as follows:
 
 **Query, Voter, Item Code, Item Rank**
 
@@ -106,7 +106,7 @@ where
 - **Item Code** is a unique identifier that identifies each element of the preference lists.
 - **Item Rank** is the preference rank assigned to an item by a Voter.
 
-If you need to test our supervised or semi-supervised methods, then we need relevance judgments for the preference list elements of the primary input file for each query. It is organized in the following fashion:
+If you need to test our supervised or semi-supervised methods, then relevance judgments are required for the elements of the preference list in the primary input file for each query. It is organized as follows:
 
 **Query, 0, Item Code, Relevance**
 
@@ -117,15 +117,15 @@ where
 - **Item Code** is a unique identifier that identifies each element of the preference lists.
 - **Relevance** is an integer value that represents the relevance of the item with respect to the mentioned Query. Typically, zero values represent irrelevant and incorrect elements and positive values represent relevant, correct and informative elements.
 
-Similarly, we define the final output of the methods as a csv file which is organized in the following manner：**Query, Item Code, Item Rank**
+Similarly, we define the final output of the methods as a CSV file which is organized in the following manner：**Query, Item Code, Item Rank**.
 
 We also provide a partially processed dataset in our `dataset.zip` file. You are welcome to use our code and test it here!
 
 ## Test Demonstrations
-We selected 20 different unsupervised RA methods for simple test demonstrations, as can be seen in example1.ipynb (Dataset: MQ2007) and example2.ipynb (Dataset: Ice-cream flavor)
+We selected 20 different unsupervised RA methods for simple test demonstrations, as can be seen in `example1.ipynb` (Dataset: MQ2007) and `example2.ipynb` (Dataset: Ice-cream Flavor).
 
 ## Follow-up Plan
-We will be updating more RA methods for share use.
+We will be updating and adding more RA methods for shared use.
 
 ## Experiments
 
