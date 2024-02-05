@@ -1,4 +1,4 @@
-# Ranking Aggregation(RA) methods
+# Rank Aggregation(RA) methods
 20 unsupervised RA methods, 6 supervised RA methods and 1 semi-supervised RA methods were tested on our preprocessed datasets. These datasets cover the areas of person re-identification(re-ID), recommendation system, bioinformatics and social choices. The tested methods include both classical and state-of-the-art RA methods. If there is a need to test other datasets, please follow the instructions in the code comments for dataset preprocessing and necessary code modifications.
 
 <table align="center">
@@ -191,16 +191,16 @@ we use official training sets to train basic re-ID and fully-supervised RA metho
   
 ![SupPara](https://github.com/nercms-mmap/RankAggregation-Lib/assets/121333364/e65cbb92-416e-454e-af09-9a3eea982c7e)
 
-Table 2: The parameters of the supervised ranking aggregation methods.
+Table 2: The parameters of the supervised rank aggregation methods.
 </div>
 
-Table 3 shows the results of the experiment conducted on the four re-ID datasets, representing the quality of all ranking aggregation methods.
+Table 3 shows the results of the experiment conducted on the four re-ID datasets, representing the quality of all rank aggregation methods.
 
 <div align="center">
 
 ![image](https://github.com/nercms-mmap/RankAggregation-Lib/assets/121333364/930d9e18-3327-4ec7-ba95-0502672c3d40)
 
-Table 3: Rank@1(%) and mAP(%)[[30]](#RS) results for ranking aggregation methods on re-ID datasets.
+Table 3: Rank@1(%) and mAP(%)[[30]](#RS) results for rank aggregation methods on re-ID datasets.
 </div>
 
 ### Recommendation System
@@ -222,13 +222,13 @@ Table 4: The parameters of the recommendation algorithms.
 Table 5: Rank@1(%) and mAP(%) results for selected recommendation algorithms on MovieLens 1M dataset.
 </div>
 
-Different ranking aggregation methods will combine the six recommendations into a consensus one. We show their performance in Table 6.
+Different rank aggregation methods will combine the six recommendations into a consensus one. We show their performance in Table 6.
 
 <div align="center">
 
 ![ml](https://github.com/nercms-mmap/RankAggregation-Lib/assets/121333364/a22ac931-c3b1-4412-9efd-414b2596fbcf)
 
-Table 6: Rank@1(%) and mAP@10(%)[[30]](#RS) results for ranking aggregation methods on MovieLens 1M datasets
+Table 6: Rank@1(%) and mAP@10(%)[[30]](#RS) results for rank aggregation methods on MovieLens 1M datasets
 </div>
 
 ### Bioinformatics
