@@ -181,7 +181,7 @@ The result of basic rankings (BDB, BOT, Top-DB-Net-RK, LightMBN, FPB, LUPerson) 
 
 <div align="center">
   
-![image](https://github.com/nercms-mmap/RankAggregation-Lib/assets/121333364/b5d2cb4f-93da-4b4a-bd5e-0a03ea8ddf3f)
+![image](https://github.com/nercms-mmap/RankAggregation-Lib/assets/121333364/43f61aa8-a45f-4501-82e9-13926a85ab5b)
 
 Table 1: Rank@1 (%) and mAP (%) [[29]](#rank1) results for selected feature extraction methods on re-ID datasets.
 </div>
@@ -198,7 +198,7 @@ Table 3 shows the results of the experiment conducted on the four re-ID datasets
 
 <div align="center">
 
-![77](https://github.com/nercms-mmap/RankAggregation-Lib/assets/121333364/56a2a2e0-42e8-4ad7-8ece-3600aa97b060)
+![image](https://github.com/nercms-mmap/RankAggregation-Lib/assets/121333364/138d9ce5-b5d0-414f-ac33-63e2aa423ea5)
 
 Table 3: Rank@1 (%) and mAP (%) [[30]](#RS) results for rank aggregation methods on re-ID datasets.
 </div>
