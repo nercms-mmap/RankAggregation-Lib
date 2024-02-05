@@ -1,5 +1,5 @@
-# Rank Aggregation(RA) methods
-20 unsupervised RA methods, 6 supervised RA methods and 1 semi-supervised RA methods were tested on our preprocessed datasets. These datasets cover the areas of person re-identification(re-ID), recommendation system, bioinformatics and social choices. The tested methods include both classical and state-of-the-art RA methods. If there is a need to test other datasets, please follow the instructions in the code comments for dataset preprocessing and necessary code modifications.
+# Rank Aggregation (RA) methods
+20 unsupervised RA methods, 6 supervised RA methods and 1 semi-supervised RA methods were tested on our preprocessed datasets. These datasets cover the areas of person re-identification (re-ID), recommendation system, bioinformatics and social choices. The tested methods include both classical and state-of-the-art RA methods. If there is a need to test other datasets, please follow the instructions in the code comments for dataset preprocessing and necessary code modifications.
 
 <table align="center">
     <tbody>
@@ -173,7 +173,7 @@ We will be updating and adding more RA methods for shared use.
 ## Experiments
 
 ### Re-identification
-In Re-identification(re-ID) datasets, we choose 6 feature extraction methods(BDB [[20]](#BDB), BOT [[21]](#BOT), Top-DB-Net-RK [[22]](#top), LightMBN [[23]](#light), FPB [[24]](#FPB), LUPerson [[25]](#lu)) to extract features from both query and gallery images, and then use the Euclidean method to combine the feature information of the combination of query and gallery to get the gallery scores under each query, and then eventually, for each query, we get the 6 basic rankings according to the scores in descending order. We evaluate our method on four image re-ID datasets(Market1501 [[26]](#market), DukeMTMC-reID [[27]](#duke) and CUHK03 detected and labeled [[28]](#cuhk))
+In Re-identification (re-ID) datasets, we choose 6 feature extraction methods (BDB [[20]](#BDB), BOT [[21]](#BOT), Top-DB-Net-RK [[22]](#top), LightMBN [[23]](#light), FPB [[24]](#FPB), LUPerson [[25]](#lu)) to extract features from both query and gallery images, and then use the Euclidean method to combine the feature information of the combination of query and gallery to get the gallery scores under each query, and then eventually, for each query, we get the 6 basic rankings according to the scores in descending order. We evaluate our method on four image re-ID datasets (Market1501 [[26]](#market), DukeMTMC-reID [[27]](#duke) and CUHK03 detected and labeled [[28]](#cuhk))
 
 All experiments are conducted on Intel Xeon Silver 4215 (2.50GHz) and 4 Nvidia RTX A6000. It is important to note that MC1-4 methods are very difficult to test on the full Market1501 and DukeMTMC-reID datasets, requiring more than 40,000 hours in our experimental environment. Therefore, we conduct a cut-off operation for these two datasets on the basic rankings to refine our experiments as follows: we take out top-K items from all basic rankings to form a new itemset, and find the items in this itemset that were not originally present in specific basic ranking to add after the $k_{th}$ item of the basic ranking to finally obtain a new basic ranking. We use the MC1-4 method to aggregate the new basic rankings to a new one $R_{\tau}$. After aggregation, the items except itemset, we randomly sort them to the back of $R_{\tau}$ be the MC1-4 (top-K).
 
@@ -183,7 +183,7 @@ The result of basic rankings (BDB, BOT, Top-DB-Net-RK, LightMBN, FPB, LUPerson) 
   
 ![image](https://github.com/nercms-mmap/RankAggregation-Lib/assets/121333364/bac6aec4-37eb-4a64-8915-c54238c561f3)
 
-Table 1: Rank@1(%) and mAP(%) [[29]](#rank1) results for selected feature extraction methods on re-ID datasets.
+Table 1: Rank@1 (%) and mAP (%) [[29]](#rank1) results for selected feature extraction methods on re-ID datasets.
 </div>
 
 we use official training sets to train basic re-ID and fully-supervised RA methods, and use official test sets to evaluate all RA methods.Table 2 presents the parameters of the semi-supervised and supervised methods, along with their type and the value that was set during the re-ID experiments. Note that a parameter setting of default means that for each query in the training set, the value taken is equal to the total number of relevant labels.
@@ -200,7 +200,7 @@ Table 3 shows the results of the experiment conducted on the four re-ID datasets
 
 ![image](https://github.com/nercms-mmap/RankAggregation-Lib/assets/121333364/930d9e18-3327-4ec7-ba95-0502672c3d40)
 
-Table 3: Rank@1(%) and mAP(%) [[30]](#RS) results for rank aggregation methods on re-ID datasets.
+Table 3: Rank@1 (%) and mAP (%) [[30]](#RS) results for rank aggregation methods on re-ID datasets.
 </div>
 
 ### Recommendation System
@@ -219,7 +219,7 @@ Table 4: The parameters of the recommendation algorithms.
 
 ![Rec-ini](https://github.com/nercms-mmap/RankAggregation-Lib/assets/121333364/41b3c3ac-d53b-45f4-a74b-0272fd6f46a3)
 
-Table 5: Rank@1(%) and mAP(%) results for selected recommendation algorithms on MovieLens 1M dataset.
+Table 5: Rank@1 (%) and mAP (%) results for selected recommendation algorithms on MovieLens 1M dataset.
 </div>
 
 Different rank aggregation methods will combine the six recommendations into a consensus one. We show their performance in Table 6.
@@ -228,18 +228,18 @@ Different rank aggregation methods will combine the six recommendations into a c
 
 ![ml](https://github.com/nercms-mmap/RankAggregation-Lib/assets/121333364/a22ac931-c3b1-4412-9efd-414b2596fbcf)
 
-Table 6: Rank@1(%) and mAP@10(%) [[30]](#RS) results for rank aggregation methods on MovieLens 1M datasets
+Table 6: Rank@1 (%) and mAP@10 (%) [[30]](#RS) results for rank aggregation methods on MovieLens 1M datasets
 </div>
 
 ### Bioinformatics
 
-In bioinformatics, we select a real dataset(NSCLC) related to cancer to conduct our experiment. Because there is no labeled data in the NSCLC dataset, we do not measure supervised and semi-supervised RA methods on NSCLC. The NSCLC dataset consists of four basic rankings which are of length 2270, 275, 543, 3501. The sources of them are [[32]](#Kerkentzes), [[33]](#Li), [[34]](#Zhou) and [[35]](#Kim). We consider the recall performance criteria in the aggregated list based on the top 400 and 800 genes. Thus, the result of all unsupervised RA methods is shown in Table 7.
+In bioinformatics, we select a real dataset (NSCLC) related to cancer to conduct our experiment. Because there is no labeled data in the NSCLC dataset, we do not measure supervised and semi-supervised RA methods on NSCLC. The NSCLC dataset consists of four basic rankings which are of length 2270, 275, 543, 3501. The sources of them are [[32]](#Kerkentzes), [[33]](#Li), [[34]](#Zhou) and [[35]](#Kim). We consider the recall performance criteria in the aggregated list based on the top 400 and 800 genes. Thus, the result of all unsupervised RA methods is shown in Table 7.
 
 <div align="center">
 
 ![NSCLC](https://github.com/nercms-mmap/RankAggregation-Lib/assets/121333364/7dd85d0c-668d-4065-99cb-ac420d7cd8aa)
 
-Table 7: Recall@400(%) and Recall@800(%) [[36]](#recall) results for unsupervised RA methods on NSCLC datasets.
+Table 7: Recall@400 (%) and Recall@800 (%) [[36]](#recall) results for unsupervised RA methods on NSCLC datasets.
 </div>
 
 ###  Social Choices
