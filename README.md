@@ -44,7 +44,7 @@
                 <li>CRF</li>
                 <li>AggRankDE</li>
                 <li>QI-IRA</li>
-                <li>$IRA_{R}$</li>
+                <li>$\textrm{IRA}_\textrm{R}$</li>
                 <li>$IRA_{S}$</li>
         </td>
         <td>
