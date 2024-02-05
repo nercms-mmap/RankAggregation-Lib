@@ -219,7 +219,7 @@ Table 4: The parameters of the recommendation algorithms.
 
 ![Rec-ini](https://github.com/nercms-mmap/RankAggregation-Lib/assets/121333364/41b3c3ac-d53b-45f4-a74b-0272fd6f46a3)
 
-Table 5: Rank@1 (%) and mAP (%) results for selected recommendation algorithms on MovieLens 1M dataset.
+Table 5: Rank@1 (%) and mAP@10 (%) [[30]](#RS) results for selected recommendation algorithms on MovieLens 1M dataset.
 </div>
 
 Different rank aggregation methods will combine the six recommendations into a consensus one. We show their performance in Table 6.
