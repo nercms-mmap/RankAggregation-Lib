@@ -201,7 +201,7 @@ Table 3 shows the results of the experiment conducted on the four re-ID datasets
 
 <div align="center">
 
-![Re-ID](https://github.com/nercms-mmap/RankAggregation-Lib/assets/121333364/58eeea2b-56bf-4e3e-97e1-286306be880a)
+![image](https://github.com/nercms-mmap/RankAggregation-Lib/assets/121333364/930d9e18-3327-4ec7-ba95-0502672c3d40)
 
 Table 3: Rank@1(%) and mAP(%) results for ranking aggregation methods on re-ID datasets.
 </div>
