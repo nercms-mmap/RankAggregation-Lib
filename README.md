@@ -55,7 +55,7 @@
     </tbody>
 </table>
 
-# Directory structure
+# Directory Structure
 ```
 │  README.md
 │  
