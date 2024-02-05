@@ -42,8 +42,8 @@
             <ul>
                 <li>$\textrm{wBorda}$ <a href="#wBorda">[13]</li>
                 <li>$\textrm{CRF}$ <a href="#CRF">[14]</li>
-                <li>$\textrm{AggRankDE}$ <a href="#AggRankDe">[15]</li>
-                <li>$\textrm{CSRA}$ <a href="#CSRA">[16]</li>
+                <li>$\textrm{CSRA}$ <a href="#CSRA">[15]</li>
+                <li>$\textrm{AggRankDE}$ <a href="#AggRankDe">[16]</li>
                 <li>$\textrm{IRA}_\textrm{R}$ <a href="#IRA">[17]</li>
                 <li>$\textrm{IRA}_\textrm{S}$ <a href="#IRA">[17]</li>
                 <li>$\textrm{QI-IRA}$ <a href="#QIIRA">[18]</li>
