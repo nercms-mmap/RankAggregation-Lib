@@ -17,39 +17,39 @@
     <tr valign="top">
         <td>
             <ul>
-                <li>CombMIN</li>
-                <li>CombMAX</li>
-                <li>CombSUM</li>
-                <li>CombANZ</li>
-                <li>CombMNZ</li>
-                <li>MC1</li>
-                <li>MC2</li>
-                <li>MC3</li>
-                <li>MC4</li>
-                <li>Borda count</li>
-                <li>Dowdall</li>
-                <li>Median</li>
-                <li>RRF</li>
-                <li>iRANK</li>
-                <li>Mean</li>
-                <li>HPA</li>
-                <li>PostNDCG</li>
-                <li>ER</li>
-                <li>CG</li>
-                <li>DIBRA</li>
+                <li>$\textrm{CombMIN}$</li>
+                <li>$\textrm{CombMAX}$</li>
+                <li>$\textrm{CombSUM}$</li>
+                <li>$\textrm{CombANZ}$</li>
+                <li>$\textrm{CombMNZ}$</li>
+                <li>$\textrm{MC1}$</li>
+                <li>$\textrm{MC2}$</li>
+                <li>$\textrm{MC3}$</li>
+                <li>$\textrm{MC4}$</li>
+                <li>$\textrm{Borda count}$</li>
+                <li>$\textrm{Dowdall}$</li>
+                <li>$\textrm{Median}$</li>
+                <li>$\textrm{RRF}$</li>
+                <li>$\textrm{iRANK}$</li>
+                <li>$\textrm{Mean}$</li>
+                <li>$\textrm{HPA}$</li>
+                <li>$\textrm{PostNDCG}$</li>
+                <li>$\textrm{ER}$</li>
+                <li>$\textrm{CG}$</li>
+                <li>$\textrm{DIBRA}$</li>
         </td>
         <td>
             <ul>
-                <li>wBorda</li>
-                <li>CRF</li>
-                <li>AggRankDE</li>
-                <li>QI-IRA</li>
+                <li>$\textrm{wBorda}$</li>
+                <li>$\textrm{CRF}$</li>
+                <li>$\textrm{AggRankDE}$</li>
                 <li>$\textrm{IRA}_\textrm{R}$</li>
                 <li>$\textrm{IRA}_\textrm{S}$</li>
+                <li>$\textrm{QI-IRA}$</li>
         </td>
         <td>
             <ul>
-                <li>SSRA</li>
+                <li>$\textrm{SSRA}$</li>
         </td>
     </tbody>
 </table>
