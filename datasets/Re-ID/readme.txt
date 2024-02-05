@@ -1,0 +1,1 @@
+Due to the size of Market1501, DukeMTMC-reID and CUHK03 detected and labeled datasets, if you want to use the above four datasets for your experimental research, you can download them by clicking the following Baidu Cloud Drive Link: https://pan.baidu.com/s/151B5Y6PMcZkZXiQfaJ2H8A?pwd=127v 
