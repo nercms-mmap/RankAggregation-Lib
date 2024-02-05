@@ -1,6 +1,59 @@
 # Ranking Aggregation(RA) methods
 20 unsupervised RA methods, 6 supervised RA methods and 1 semi-supervised RA methods were tested on our preprocessed datasets. These datasets cover the areas of person re-identification(re-ID), recommendation system, bioinformatics and social choices. The tested methods include both classical and state-of-the-art RA methods. If there is a need to test other datasets, please follow the instructions in the code comments for dataset preprocessing and necessary code modifications.
 
+<table align="center">
+    <tbody>
+    <tr align="center" valign="bottom">
+      <td>
+        <b>Unsupervised</b>
+      </td>
+      <td>
+        <b>Supervised</b>
+      </td>
+      <td>
+        <b>Semi-supervised</b>
+      </td>
+    </tr>
+    <tr valign="top">
+        <td>
+            <ul>
+                <li>CombMIN</li>
+                <li>CombMAX</li>
+                <li>CombSUM</li>
+                <li>CombANZ</li>
+                <li>CombMNZ</li>
+                <li>MC1</li>
+                <li>MC2</li>
+                <li>MC3</li>
+                <li>MC4</li>
+                <li>Borda count</li>
+                <li>Dowdall</li>
+                <li>Median</li>
+                <li>RRF</li>
+                <li>iRANK</li>
+                <li>Mean</li>
+                <li>HPA</li>
+                <li>PostNDCG</li>
+                <li>ER</li>
+                <li>CG</li>
+                <li>DIBRA</li>
+        </td>
+        <td>
+            <ul>
+                <li>wBorda</li>
+                <li>CRF</li>
+                <li>AggRankDE</li>
+                <li>QI-IRA</li>
+                <li>$IRA_{R}$</li>
+                <li>$IRA_{S}$</li>
+        </td>
+        <td>
+            <ul>
+                <li>SSRA</li>
+        </td>
+    </tbody>
+</table>
+
 # Directory structure
 ```
 │  example1.ipynb
