@@ -165,9 +165,6 @@ Similarly, we define the final output of the methods as a CSV file which is orga
 
 We also provide a partially processed dataset in our `dataset.zip` file. You are welcome to use our code and test it here!
 
-## Test Demonstrations
-We selected 20 different unsupervised RA methods for simple test demonstrations, as can be seen in `example1.ipynb` (Dataset: MQ2007) and `example2.ipynb` (Dataset: Ice-cream Flavor).
-
 ## Follow-up Plan
 We will be updating and adding more RA methods for shared use.
 
