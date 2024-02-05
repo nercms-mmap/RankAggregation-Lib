@@ -182,8 +182,7 @@ We will be updating and adding more RA methods for shared use.
 ## Experiments
 
 ### Re-identification
-
-In Re-identification(re-ID) datasets, we choose 6 feature extraction methods(BDB, BOT, Top-DB-Net-RK, LightMBN, FPB, LUPerson) to extract features from both query and gallery images, and then use the Euclidean method to combine the feature information of the combination of query and gallery to get the gallery scores under each query, and then eventually, for each query, we get the 6 basic rankings according to the scores in descending order. We evaluate our method on four image re-ID datasets(Market1501, DukeMTMC-reID and CUHK03 detected and labeled)
+In Re-identification(re-ID) datasets, we choose 6 feature extraction methods(BDB[[1]](#click_me_jump), BOT, Top-DB-Net-RK, LightMBN, FPB, LUPerson) to extract features from both query and gallery images, and then use the Euclidean method to combine the feature information of the combination of query and gallery to get the gallery scores under each query, and then eventually, for each query, we get the 6 basic rankings according to the scores in descending order. We evaluate our method on four image re-ID datasets(Market1501, DukeMTMC-reID and CUHK03 detected and labeled)
 
 All experiments are conducted on Intel Xeon Silver 4215 (2.50GHz) and 4 Nvidia RTX A6000. It is important to note that MC1-4 methods are very difficult to test on the full Market1501 and DukeMTMC-reID datasets, requiring more than 40,000 hours in our experimental environment. Therefore, we conduct a cut-off operation for these two datasets on the basic rankings to refine our experiments as follows: we take out top-K items from all basic rankings to form a new itemset, and find the items in this itemset that were not originally present in specific basic ranking to add after the $k_{th}$ item of the basic ranking to finally obtain a new basic ranking. We use the MC1-4 method to aggregate the new basic rankings to a new one $R_{\tau}$. After aggregation, the items except itemset, we randomly sort them to the back of $R_{\tau}$ be the MC1-4 (top-K).
 
@@ -264,8 +263,8 @@ Table 8: Normality and the overall of impartiality results for unsupervised RA m
 </div>
 
 ## References
- [[1]](https://openaccess.thecvf.com/content_ICCV_2019/html/Dai_Batch_DropBlock_Network_for_Person_Re-Identification_and_Beyond_ICCV_2019_paper.html) Dai, Zuozhuo, et al. "Batch dropblock network for person re-identification and beyond." Proceedings of the IEEE/CVF international conference on computer vision. 2019.
- 
+<a id="click_me_jump"> [[1]](https://openaccess.thecvf.com/content_ICCV_2019/html/Dai_Batch_DropBlock_Network_for_Person_Re-Identification_and_Beyond_ICCV_2019_paper.html) Dai, Zuozhuo, et al. "Batch dropblock network for person re-identification and beyond." Proceedings of the IEEE/CVF international conference on computer vision. 2019.</a>
+
  [[2]](https://openaccess.thecvf.com/content_CVPRW_2019/html/TRMTMCT/Luo_Bag_of_Tricks_and_a_Strong_Baseline_for_Deep_Person_CVPRW_2019_paper.html) Luo, Hao, et al. "Bag of tricks and a strong baseline for deep person re-identification." Proceedings of the IEEE/CVF conference on computer vision and pattern recognition workshops. 2019.
 
  [[3]](https://ieeexplore.ieee.org/abstract/document/9412017) Quispe, Rodolfo, and Helio Pedrini. "Top-db-net: Top dropblock for activation enhancement in person re-identification." 2020 25th International conference on pattern recognition (ICPR). IEEE, 2021.
