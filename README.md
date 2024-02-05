@@ -67,10 +67,54 @@
 │  ├─MQ2008-agg
 │  ├─NSCLC
 │  └─World University Ranking 2022
-│          
-├─semi-supervised
-│      SSRA.py
 │      
+└─unsupervised
+│   ├─matlab
+│   │      BordaCount.m
+│   │      CG.m
+│   │      CombANZ.m
+│   │      CombMAX.m
+│   │      CombMED.m
+│   │      CombMIN.m
+│   │      CombMNZ.m
+│   │      CombSUM.m
+│   │      Condorcet.m
+│   │      DIBRA.m
+│   │      Dowdall.m
+│   │      EnsembleRanking.m
+│   │      ER.m
+│   │      HPA.m
+│   │      hpa_func.m
+│   │      ice-cream.mat
+│   │      iRank.m
+│   │      Matrix-ice-cream.mat
+│   │      Mean.m
+│   │      Median.m
+│   │      PostNDCG.m
+│   │      RRF.m
+│   │      unsupervised RA methods.ipynb
+│   │      
+│   └─python
+│           BordaCount.py
+│           CG.py
+│           CombANZ.py
+│           CombMAX.py
+│           CombMED.py
+│           CombMIN.py
+│           CombMNZ.py
+│           CombSUM.py
+│           Comb_Family.py
+│           Dowdall.py
+│           evaluate.py
+│           MarkovChain.py
+│           Mean.py
+│           Medium.py
+│           preprocess.py
+│           RRF.py
+│           run_algorithm.py
+│           scorefunc.py
+│           unsupervised RA methods.ipynb
+│
 ├─supervised
 │  ├─matlab
 │  │  │  compute_AP.m
@@ -90,52 +134,8 @@
 │          Evaluation.py
 │          WeightedBorda.py
 │          
-└─unsupervised
-    ├─matlab
-    │      BordaCount.m
-    │      CG.m
-    │      CombANZ.m
-    │      CombMAX.m
-    │      CombMED.m
-    │      CombMIN.m
-    │      CombMNZ.m
-    │      CombSUM.m
-    │      Condorcet.m
-    │      DIBRA.m
-    │      Dowdall.m
-    │      EnsembleRanking.m
-    │      ER.m
-    │      HPA.m
-    │      hpa_func.m
-    │      ice-cream.mat
-    │      iRank.m
-    │      Matrix-ice-cream.mat
-    │      Mean.m
-    │      Median.m
-    │      PostNDCG.m
-    │      RRF.m
-    │      unsupervised RA methods.ipynb
-    │      
-    └─python
-            BordaCount.py
-            CG.py
-            CombANZ.py
-            CombMAX.py
-            CombMED.py
-            CombMIN.py
-            CombMNZ.py
-            CombSUM.py
-            Comb_Family.py
-            Dowdall.py
-            evaluate.py
-            MarkovChain.py
-            Mean.py
-            Medium.py
-            preprocess.py
-            RRF.py
-            run_algorithm.py
-            scorefunc.py
-            unsupervised RA methods.ipynb
+├─semi-supervised
+│      SSRA.py
 ```
 
 ## Get Started
