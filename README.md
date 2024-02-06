@@ -314,7 +314,7 @@ Table 8: Normality and the overall of impartiality results for unsupervised RA m
 
 <a id="movielens"> [[31]](https://dl.acm.org/doi/abs/10.1145/2827872) Harper, F. M., & Konstan, J. A. (2015). The movielens datasets: History and context. Acm transactions on interactive intelligent systems (tiis), 5(4), 1-19.</a>
 
-<a id="lenskit"> [[32]](https://github.com/lenskit/lkpy) Michael D. Ekstrand. 2020. LensKit for Python: Next-Generation Software for Recommender Systems Experiments. In Proceedings of the 29th ACM International Conference on Information and Knowledge Management (CIKM '20). DOI:10.1145/3340531.3412778. arXiv:1809.03125 [cs.IR].</a>
+<a id="lenskit"> [[32]](https://github.com/lenskit/lkpy) Ekstrand, M. D. (2020, October). Lenskit for python: Next-generation software for recommender systems experiments. In Proceedings of the 29th ACM international conference on information & knowledge management (pp. 2999-3006).</a>
 
 <a id="nsclc"> [[33]](https://academic.oup.com/bioinformatics/article/38/21/4927/6696211?login=false) Wang, B., Law, A., Regan, T., Parkinson, N., Cole, J., Russell, C. D., ... & Baillie, J. K. (2022). Systematic comparison of ranking aggregation methods for gene lists in experimental results. Bioinformatics, 38(21), 4927-4933.</a>
 
