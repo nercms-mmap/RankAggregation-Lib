@@ -260,9 +260,9 @@ Table 8: Normality and the overall of impartiality results for unsupervised RA m
 
 <a id="Dowdall">[[4]](https://journals.sagepub.com/doi/abs/10.1177/0192512102023004002) Reilly, Benjamin. "Social choice in the south seas: Electoral innovation and the borda count in the pacific island countries." International Political Science Review 23.4 (2002): 355-372.</a>
 
-<a id="Median">[[5]](https://dl.acm.org/doi/abs/10.1145/872757.872795) Fagin, Ronald, Ravi Kumar, and Dandapani Sivakumar. "Efficient similarity search and classification via rank aggregation." Proceedings of the 2003 ACM SIGMOD international conference on Management of data. 2003.</a>
+<a id="Median">[[5]](https://dl.acm.org/doi/abs/10.1145/872757.872795) Fagin, R., Kumar, R., & Sivakumar, D. (2003, June). Efficient similarity search and classification via rank aggregation. In Proceedings of the 2003 ACM SIGMOD international conference on Management of data (pp. 301-312).</a>
 
-<a id="RRF">[[6]](https://dl.acm.org/doi/abs/10.1145/1571941.1572114) Cormack, Gordon V., Charles LA Clarke, and Stefan Buettcher. "Reciprocal rank fusion outperforms condorcet and individual rank learning methods." Proceedings of the 32nd international ACM SIGIR conference on Research and development in information retrieval. 2009.</a>
+<a id="RRF">[[6]](https://dl.acm.org/doi/abs/10.1145/1571941.1572114) Cormack, G. V., Clarke, C. L., & Buettcher, S. (2009, July). Reciprocal rank fusion outperforms condorcet and individual rank learning methods. In Proceedings of the 32nd international ACM SIGIR conference on Research and development in information retrieval (pp. 758-759).</a>
 
 <a id="iRANK">[[7]](https://asistdl.onlinelibrary.wiley.com/doi/abs/10.1002/asi.21296) Wei, Furu, Wenjie Li, and Shixia Liu. "iRANK: A rank‐learn‐combine framework for unsupervised ensemble ranking." Journal of the American Society for Information Science and Technology 61.6 (2010): 1232-1243.</a>
 
@@ -286,7 +286,7 @@ Table 8: Normality and the overall of impartiality results for unsupervised RA m
 
 <a id="IRA">[[17]](https://bmvc2022.mpi-inf.mpg.de/0386.pdf) Huang, J., Liang, C., Zhang, Y., Wang, Z., & Zhang, C. (2022). Ranking Aggregation with Interactive Feedback for Collaborative Person Re-identification.</a>
 
-<a id="QIIRA">[[18]](https://bmvc2022.mpi-inf.mpg.de/0386.pdf) Chunyu Hu, Hong Zhang, Chao Liang, and Huang Hao. QI-IRA: Quantum-inspired interactive ranking aggregation for person re-identification. In Proceedings of the AAAI Conference on Artificial Intelligence, volume 38, pages 1–9, 2024.</a>
+<a id="QIIRA">[[18]](https://aaai.org/wp-content/uploads/2024/01/AAAI_Main-Track_2024-01-04.pdf) Chunyu Hu, Hong Zhang, Chao Liang, and Huang Hao. QI-IRA: Quantum-inspired interactive ranking aggregation for person re-identification. In Proceedings of the AAAI Conference on Artificial Intelligence, volume 38, pages 1–9, 2024.</a>
 
 <a id="semi">[[19]](https://dl.acm.org/doi/abs/10.1145/1458082.1458315) Chen, S., Wang, F., Song, Y., & Zhang, C. (2008, October). Semi-supervised ranking aggregation. In Proceedings of the 17th ACM conference on Information and knowledge management (pp. 1427-1428).</a>
 
