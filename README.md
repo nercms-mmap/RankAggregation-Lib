@@ -278,7 +278,7 @@ Table 8: Normality and the overall of impartiality results for unsupervised RA m
 
 <a id="wBorda">[[13]](https://ieeexplore.ieee.org/abstract/document/6495123) Pujari, Manisha, and Rushed Kanawati. "Link prediction in complex networks by supervised rank aggregation." 2012 IEEE 24th International Conference on Tools with Artificial Intelligence. Vol. 1. IEEE, 2012.</a>
 
-<a id="CRF">[[14]](https://www.jmlr.org/papers/volume15/volkovs14a/volkovs14a.pdf)Volkovs, Maksims N., and Richard S. Zemel. "New learning methods for supervised and unsupervised preference aggregation." The Journal of Machine Learning Research 15.1 (2014): 1135-1176.</a>
+<a id="CRF">[[14]](https://www.jmlr.org/papers/volume15/volkovs14a/volkovs14a.pdf) Volkovs, Maksims N., and Richard S. Zemel. "New learning methods for supervised and unsupervised preference aggregation." The Journal of Machine Learning Research 15.1 (2014): 1135-1176.</a>
 
 <a id="CSRA">[[15]](https://ieeexplore.ieee.org/abstract/document/9053496) Yu, Y., Liang, C., Ruan, W., & Jiang, L. (2020, May). Crowdsourcing-Based Ranking Aggregation for Person Re-Identification. In ICASSP 2020-2020 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) (pp. 1933-1937). IEEE.</a>
 
