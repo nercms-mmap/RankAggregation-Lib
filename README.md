@@ -290,45 +290,45 @@ Table 8: Normality and the overall of impartiality results for unsupervised RA m
 
 <a id="semi">[[19]](https://dl.acm.org/doi/abs/10.1145/1458082.1458315) Chen, S., Wang, F., Song, Y., & Zhang, C. (2008, October). Semi-supervised ranking aggregation. In Proceedings of the 17th ACM conference on Information and knowledge management (pp. 1427-1428).</a>
 
-<a id="BDB">[[20]](https://openaccess.thecvf.com/content_ICCV_2019/html/Dai_Batch_DropBlock_Network_for_Person_Re-Identification_and_Beyond_ICCV_2019_paper.html) Dai, Zuozhuo, et al. "Batch dropblock network for person re-identification and beyond." Proceedings of the IEEE/CVF international conference on computer vision. 2019.</a>
+<a id="BDB">[[20]](https://openaccess.thecvf.com/content_ICCV_2019/html/Dai_Batch_DropBlock_Network_for_Person_Re-Identification_and_Beyond_ICCV_2019_paper.html) Dai, Z., Chen, M., Gu, X., Zhu, S., & Tan, P. (2019). Batch dropblock network for person re-identification and beyond. In Proceedings of the IEEE/CVF international conference on computer vision (pp. 3691-3701).</a>
 
-<a id="BOT">[[21]](https://openaccess.thecvf.com/content_CVPRW_2019/html/TRMTMCT/Luo_Bag_of_Tricks_and_a_Strong_Baseline_for_Deep_Person_CVPRW_2019_paper.html) Luo, Hao, et al. "Bag of tricks and a strong baseline for deep person re-identification." Proceedings of the IEEE/CVF conference on computer vision and pattern recognition workshops. 2019.</a>
+<a id="BOT">[[21]](https://openaccess.thecvf.com/content_CVPRW_2019/html/TRMTMCT/Luo_Bag_of_Tricks_and_a_Strong_Baseline_for_Deep_Person_CVPRW_2019_paper.html) Luo, H., Gu, Y., Liao, X., Lai, S., & Jiang, W. (2019). Bag of tricks and a strong baseline for deep person re-identification. In Proceedings of the IEEE/CVF conference on computer vision and pattern recognition workshops (pp. 0-0).</a>
 
 <a id="top"> [[22]](https://ieeexplore.ieee.org/abstract/document/9412017) Quispe, Rodolfo, and Helio Pedrini. "Top-db-net: Top dropblock for activation enhancement in person re-identification." 2020 25th International conference on pattern recognition (ICPR). IEEE, 2021.</a>
 
-<a id="light">  [[23]](https://ieeexplore.ieee.org/abstract/document/9506733) Herzog, Fabian, et al. "Lightweight multi-branch network for person re-identification." 2021 IEEE International Conference on Image Processing (ICIP). IEEE, 2021.</a>
+<a id="light">  [[23]](https://ieeexplore.ieee.org/abstract/document/9506733) Herzog, F., Ji, X., Teepe, T., Hörmann, S., Gilg, J., & Rigoll, G. (2021, September). Lightweight multi-branch network for person re-identification. In 2021 IEEE International Conference on Image Processing (ICIP) (pp. 1129-1133). IEEE.</a>
 
-<a id="FPB"> [[24]](https://arxiv.org/abs/2108.01901) Zhang, Suofei, et al. "FPB: feature pyramid branch for person re-identification." arXiv preprint arXiv:2108.01901 (2021).</a>
+<a id="FPB"> [[24]](https://arxiv.org/abs/2108.01901) Zhang, S., Yin, Z., Wu, X., Wang, K., Zhou, Q., & Kang, B. (2021). FPB: feature pyramid branch for person re-identification. arXiv preprint arXiv:2108.01901.</a>
 
-<a id="lu">  [[25]](https://openaccess.thecvf.com/content/CVPR2021/html/Fu_Unsupervised_Pre-Training_for_Person_Re-Identification_CVPR_2021_paper.html) Fu, Dengpan, et al. "Unsupervised pre-training for person re-identification." Proceedings of the IEEE/CVF conference on computer vision and pattern recognition. 2021.</a>
+<a id="lu">  [[25]](https://openaccess.thecvf.com/content/CVPR2021/html/Fu_Unsupervised_Pre-Training_for_Person_Re-Identification_CVPR_2021_paper.html) Fu, D., Chen, D., Bao, J., Yang, H., Yuan, L., Zhang, L., ... & Chen, D. (2021). Unsupervised pre-training for person re-identification. In Proceedings of the IEEE/CVF conference on computer vision and pattern recognition (pp. 14750-14759).</a>
 
-<a id="market">  [[26]](https://www.cv-foundation.org/openaccess/content_iccv_2015/html/Zheng_Scalable_Person_Re-Identification_ICCV_2015_paper.html) Zheng, Liang, et al. "Scalable person re-identification: A benchmark." Proceedings of the IEEE international conference on computer vision. 2015.</a>
+<a id="market">  [[26]](https://www.cv-foundation.org/openaccess/content_iccv_2015/html/Zheng_Scalable_Person_Re-Identification_ICCV_2015_paper.html) Zheng, L., Shen, L., Tian, L., Wang, S., Wang, J., & Tian, Q. (2015). Scalable person re-identification: A benchmark. In Proceedings of the IEEE international conference on computer vision (pp. 1116-1124).</a>
 
-<a id="duke"> [[27]](https://link.springer.com/chapter/10.1007/978-3-319-48881-3_2) Ristani, Ergys, et al. "Performance measures and a data set for multi-target, multi-camera tracking." European conference on computer vision. Cham: Springer International Publishing, 2016.</a>
+<a id="duke"> [[27]](https://link.springer.com/chapter/10.1007/978-3-319-48881-3_2) Ristani, E., Solera, F., Zou, R., Cucchiara, R., & Tomasi, C. (2016, October). Performance measures and a data set for multi-target, multi-camera tracking. In European conference on computer vision (pp. 17-35). Cham: Springer International Publishing.</a>
 
-<a id="cuhk"> [[28]](https://openaccess.thecvf.com/content_cvpr_2014/html/Li_DeepReID_Deep_Filter_2014_CVPR_paper.html) Li, Wei, et al. "Deepreid: Deep filter pairing neural network for person re-identification." Proceedings of the IEEE conference on computer vision and pattern recognition. 2014.</a>
+<a id="cuhk"> [[28]](https://openaccess.thecvf.com/content_cvpr_2014/html/Li_DeepReID_Deep_Filter_2014_CVPR_paper.html) Li, W., Zhao, R., Xiao, T., & Wang, X. (2014). Deepreid: Deep filter pairing neural network for person re-identification. In Proceedings of the IEEE conference on computer vision and pattern recognition (pp. 152-159).</a>
 
-<a id="rank1"> [[29]](https://ieeexplore.ieee.org/abstract/document/9336268) Ye, Mang, et al. "Deep learning for person re-identification: A survey and outlook." IEEE transactions on pattern analysis and machine intelligence 44.6 (2021): 2872-2893.</a>
+<a id="rank1"> [[29]](https://ieeexplore.ieee.org/abstract/document/9336268) Ye, M., Shen, J., Lin, G., Xiang, T., Shao, L., & Hoi, S. C. (2021). Deep learning for person re-identification: A survey and outlook. IEEE transactions on pattern analysis and machine intelligence, 44(6), 2872-2893.</a>
 
-<a id="RS"> [[30]](https://dl.acm.org/doi/abs/10.1145/3365375) Oliveira, Samuel EL, et al. "Is rank aggregation effective in recommender systems? an experimental analysis." ACM Transactions on Intelligent Systems and Technology (TIST) 11.2 (2020): 1-26.</a>
+<a id="RS"> [[30]](https://dl.acm.org/doi/abs/10.1145/3365375) Oliveira, S. E., Diniz, V., Lacerda, A., Merschmanm, L., & Pappa, G. L. (2020). Is rank aggregation effective in recommender systems? an experimental analysis. ACM Transactions on Intelligent Systems and Technology (TIST), 11(2), 1-26.</a>
 
-<a id="movielens"> [[31]](https://dl.acm.org/doi/abs/10.1145/2827872) Harper, F. Maxwell, and Joseph A. Konstan. "The movielens datasets: History and context." Acm transactions on interactive intelligent systems (tiis) 5.4 (2015): 1-19.</a>
+<a id="movielens"> [[31]](https://dl.acm.org/doi/abs/10.1145/2827872) Harper, F. M., & Konstan, J. A. (2015). The movielens datasets: History and context. Acm transactions on interactive intelligent systems (tiis), 5(4), 1-19.</a>
 
 <a id="lenskit"> [[32]](https://github.com/lenskit/lkpy) Michael D. Ekstrand. 2020. LensKit for Python: Next-Generation Software for Recommender Systems Experiments. In Proceedings of the 29th ACM International Conference on Information and Knowledge Management (CIKM '20). DOI:10.1145/3340531.3412778. arXiv:1809.03125 [cs.IR].</a>
 
-<a id="nsclc"> [[33]](https://academic.oup.com/bioinformatics/article/38/21/4927/6696211?login=false) Wang, Bo, et al. "Systematic comparison of ranking aggregation methods for gene lists in experimental results." Bioinformatics 38.21 (2022): 4927-4933.</a>
+<a id="nsclc"> [[33]](https://academic.oup.com/bioinformatics/article/38/21/4927/6696211?login=false) Wang, B., Law, A., Regan, T., Parkinson, N., Cole, J., Russell, C. D., ... & Baillie, J. K. (2022). Systematic comparison of ranking aggregation methods for gene lists in experimental results. Bioinformatics, 38(21), 4927-4933.</a>
 
-<a id="Kerkentzes">  [[34]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4178426/) Kerkentzes, Konstantinos, et al. "Hidden treasures in “ancient” microarrays: gene-expression portrays biology and potential resistance pathways of major lung cancer subtypes and normal tissue." Frontiers in oncology 4 (2014): 251.</a>
+<a id="Kerkentzes">  [[34]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4178426/) Kerkentzes, K., Lagani, V., Tsamardinos, I., Vyberg, M., & Røe, O. D. (2014). Hidden treasures in “ancient” microarrays: gene-expression portrays biology and potential resistance pathways of major lung cancer subtypes and normal tissue. Frontiers in oncology, 4, 251.</a>
 
-<a id="Li"> [[35]](https://link.springer.com/article/10.1007/s13277-015-3576-y) Li, Yafang, et al. "RNA-seq analysis of lung adenocarcinomas reveals different gene expression profiles between smoking and nonsmoking patients." Tumor Biology 36 (2015): 8993-9003.</a>
+<a id="Li"> [[35]](https://link.springer.com/article/10.1007/s13277-015-3576-y) Li, Y., Xiao, X., Ji, X., Liu, B., & Amos, C. I. (2015). RNA-seq analysis of lung adenocarcinomas reveals different gene expression profiles between smoking and nonsmoking patients. Tumor Biology, 36, 8993-9003.</a>
 
-<a id="Zhou">  [[36]](https://www.nature.com/articles/onc2016242) Zhou, Y., et al. "microRNAs with AAGUGC seed motif constitute an integral part of an oncogenic signaling network." Oncogene 36.6 (2017): 731-745.</a>
+<a id="Zhou">  [[36]](https://www.nature.com/articles/onc2016242) Zhou, Y., Frings, O., Branca, R. M., Boekel, J., le Sage, C., Fredlund, E., ... & Orre, L. M. (2017). microRNAs with AAGUGC seed motif constitute an integral part of an oncogenic signaling network. Oncogene, 36(6), 731-745.</a>
  
-<a id="Kim"> [[37]](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0055596) Kim, Sang Cheol, et al. "A high-dimensional, deep-sequencing study of lung adenocarcinoma in female never-smokers." PloS one 8.2 (2013): e55596.</a>
+<a id="Kim"> [[37]](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0055596) Kim, S. C., Jung, Y., Park, J., Cho, S., Seo, C., Kim, J., ... & Lee, S. (2013). A high-dimensional, deep-sequencing study of lung adenocarcinoma in female never-smokers. PloS one, 8(2), e55596.</a>
 
-<a id="recall"> [[38]](https://academic.oup.com/bioinformatics/article/38/21/4927/6696211) Wang, Bo, et al. "Systematic comparison of ranking aggregation methods for gene lists in experimental results." Bioinformatics 38.21 (2022): 4927-4933.</a>
+<a id="recall"> [[38]](https://academic.oup.com/bioinformatics/article/38/21/4927/6696211) Wang, B., Law, A., Regan, T., Parkinson, N., Cole, J., Russell, C. D., ... & Baillie, J. K. (2022). Systematic comparison of ranking aggregation methods for gene lists in experimental results. Bioinformatics, 38(21), 4927-4933.</a>
 
-<a id="IEIR"> [[39]](https://ieeexplore.ieee.org/abstract/document/10391254) Feng, Shiwei, et al. "An Experimental Study of Unsupervised Rank Aggregation Methods in World University Rankings." 2023 International Conference on Intelligent Education and Intelligent Research (IEIR). IEEE, 2023.</a>
+<a id="IEIR"> [[39]](https://ieeexplore.ieee.org/abstract/document/10391254) Feng, S., Deng, Q., Wang, S., Song, L., & Liang, C. (2023, November). An Experimental Study of Unsupervised Rank Aggregation Methods in World University Rankings. In 2023 International Conference on Intelligent Education and Intelligent Research (IEIR) (pp. 1-8). IEEE.</a>
 
  ## Contacts
 
