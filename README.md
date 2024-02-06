@@ -254,7 +254,7 @@ Table 8: Normality and the overall of impartiality results for unsupervised RA m
 ## References
 <a id="Comb">[[1]](https://books.google.com.tw/books?hl=zh-CN&lr=&id=W8MZAQAAIAAJ&oi=fnd&pg=PA243&dq=Combination+of+multiple+searches.&ots=3XwVWFAQ5n&sig=EGO4Nkeo5BIsfg0HOpiHsnNPjm4&redir_esc=y#v=onepage&q=Combination%20of%20multiple%20searches.&f=false) Fox, Edward, and Joseph Shaw. "Combination of multiple searches." NIST special publication SP (1994): 243-243.</a>
 
-<a id="MC">[[2]](https://dl.acm.org/doi/abs/10.1145/371920.372165) Dwork, Cynthia, et al. "Rank aggregation methods for the web." Proceedings of the 10th international conference on World Wide Web. 2001.</a>
+<a id="MC">[[2]](https://dl.acm.org/doi/abs/10.1145/371920.372165) Dwork, C., Kumar, R., Naor, M., & Sivakumar, D. (2001, April). Rank aggregation methods for the web. In Proceedings of the 10th international conference on World Wide Web (pp. 613-622).</a>
 
 <a id="Borda">[[3]](https://dl.acm.org/doi/abs/10.1145/383952.384007) Aslam, Javed A., and Mark Montague. "Models for metasearch." Proceedings of the 24th annual international ACM SIGIR conference on Research and development in information retrieval. 2001.</a>
 
@@ -264,31 +264,31 @@ Table 8: Normality and the overall of impartiality results for unsupervised RA m
 
 <a id="RRF">[[6]](https://dl.acm.org/doi/abs/10.1145/1571941.1572114) Cormack, Gordon V., Charles LA Clarke, and Stefan Buettcher. "Reciprocal rank fusion outperforms condorcet and individual rank learning methods." Proceedings of the 32nd international ACM SIGIR conference on Research and development in information retrieval. 2009.</a>
 
-<a id="iRANK">[[7]](https://asistdl.onlinelibrary.wiley.com/doi/abs/10.1002/asi.21296) Wei, Furu, Wenjie Li, and Shixia Liu. "iRANK: A rank‐learn‐combine framework for unsupervised ensemble ranking." Journal of the American Society for Information Science and Technology 61.6 (2010): 1232-1243. 2009.</a>
+<a id="iRANK">[[7]](https://asistdl.onlinelibrary.wiley.com/doi/abs/10.1002/asi.21296) Wei, Furu, Wenjie Li, and Shixia Liu. "iRANK: A rank‐learn‐combine framework for unsupervised ensemble ranking." Journal of the American Society for Information Science and Technology 61.6 (2010): 1232-1243.</a>
 
-<a id="Mean">[[8]](https://proceedings.mlr.press/v14/burges11a/burges11a.pdf) Burges, Christopher, et al. "Learning to rank using an ensemble of lambda-gradient models." Proceedings of the learning to rank Challenge. PMLR, 2011.</a>
+<a id="Mean">[[8]](https://proceedings.mlr.press/v14/burges11a/burges11a.pdf) Burges, C., Svore, K., Bennett, P., Pastusiak, A., & Wu, Q. (2011, January). Learning to rank using an ensemble of lambda-gradient models. In Proceedings of the learning to rank Challenge (pp. 25-35). PMLR.</a>
 
 <a id="HPA&postNDCG">[[9]](https://link.springer.com/chapter/10.1007/978-3-030-45442-5_17) Fujita, Soichiro, Hayato Kobayashi, and Manabu Okumura. "Unsupervised Ensemble of Ranking Models for News Comments Using Pseudo Answers." Advances in Information Retrieval: 42nd European Conference on IR Research, ECIR 2020, Lisbon, Portugal, April 14–17, 2020, Proceedings, Part II 42. Springer International Publishing, 2020.</a>
 
 <a id="ER">[[10]](https://www.sciencedirect.com/science/article/pii/S0305048319308448) Mohammadi, Majid, and Jafar Rezaei. "Ensemble ranking: Aggregation of rankings produced by different multi-criteria decision-making methods." Omega 96 (2020): 102254.</a>
 
-<a id="CG">[[11]](https://www.tandfonline.com/doi/abs/10.1080/01605682.2019.1657365) Xiao, Yu, et al. "Graph-based rank aggregation method for high-dimensional and partial rankings." Journal of the Operational Research Society 72.1 (2021): 227-236.</a>
+<a id="CG">[[11]](https://www.tandfonline.com/doi/abs/10.1080/01605682.2019.1657365) Xiao, Y., Deng, H. Z., Lu, X., & Wu, J. (2021). Graph-based rank aggregation method for high-dimensional and partial rankings. Journal of the Operational Research Society, 72(1), 227-236.</a>
 
-<a id="DIBRA">[[12]](https://www.sciencedirect.com/science/article/abs/pii/S0957417422007710) Akritidis, Leonidas, et al. "An unsupervised distance-based model for weighted rank aggregation with list pruning." Expert Systems with Applications 202 (2022): 117435.</a>
+<a id="DIBRA">[[12]](https://www.sciencedirect.com/science/article/abs/pii/S0957417422007710) Akritidis, L., Fevgas, A., Bozanis, P., & Manolopoulos, Y. (2022). An unsupervised distance-based model for weighted rank aggregation with list pruning. Expert Systems with Applications, 202, 117435.</a>
 
 <a id="wBorda">[[13]](https://ieeexplore.ieee.org/abstract/document/6495123) Pujari, Manisha, and Rushed Kanawati. "Link prediction in complex networks by supervised rank aggregation." 2012 IEEE 24th International Conference on Tools with Artificial Intelligence. Vol. 1. IEEE, 2012.</a>
 
-<a id="CRF">[[14]](https://www.jmlr.org/papers/volume15/volkovs14a/volkovs14a.pdf) Volkovs, Maksims N., and Richard S. Zemel. "New learning methods for supervised and unsupervised preference aggregation." The Journal of Machine Learning Research 15.1 (2014): 1135-1176.</a>
+<a id="CRF">[[14]](https://www.jmlr.org/papers/volume15/volkovs14a/volkovs14a.pdf)Volkovs, Maksims N., and Richard S. Zemel. "New learning methods for supervised and unsupervised preference aggregation." The Journal of Machine Learning Research 15.1 (2014): 1135-1176.</a>
 
-<a id="CSRA">[[15]](https://ieeexplore.ieee.org/abstract/document/9053496) Yu, Yinxue, et al. "Crowdsourcing-Based Ranking Aggregation for Person Re-Identification." ICASSP 2020-2020 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP). IEEE, 2020.</a>
+<a id="CSRA">[[15]](https://ieeexplore.ieee.org/abstract/document/9053496) Yu, Y., Liang, C., Ruan, W., & Jiang, L. (2020, May). Crowdsourcing-Based Ranking Aggregation for Person Re-Identification. In ICASSP 2020-2020 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) (pp. 1933-1937). IEEE.</a>
 
 <a id="AggRankDe">[[16]](https://www.mdpi.com/2079-9292/11/3/369) Bałchanowski, Michał, and Urszula Boryczka. "Aggregation of Rankings Using Metaheuristics in Recommendation Systems." Electronics 11.3 (2022): 369.</a>
 
-<a id="IRA">[[17]](https://bmvc2022.mpi-inf.mpg.de/0386.pdf) Huang, Ji, et al. "Ranking Aggregation with Interactive Feedback for Collaborative Person Re-identification." (2022).</a>
+<a id="IRA">[[17]](https://bmvc2022.mpi-inf.mpg.de/0386.pdf) Huang, J., Liang, C., Zhang, Y., Wang, Z., & Zhang, C. (2022). Ranking Aggregation with Interactive Feedback for Collaborative Person Re-identification.</a>
 
-<a id="QIIRA">[[18]](https://bmvc2022.mpi-inf.mpg.de/0386.pdf) Chunyu Hu, Hong Zhang, Chao Liang, and Huang Hao. QI-IRA: Quantum-inspired interactive ranking aggregation for person re-identification. In Proceedings of the AAAI Conference on Artificial Intelligence, volume 38, pages 1–9, 2024. (2022).</a>
+<a id="QIIRA">[[18]](https://bmvc2022.mpi-inf.mpg.de/0386.pdf) Chunyu Hu, Hong Zhang, Chao Liang, and Huang Hao. QI-IRA: Quantum-inspired interactive ranking aggregation for person re-identification. In Proceedings of the AAAI Conference on Artificial Intelligence, volume 38, pages 1–9, 2024.</a>
 
-<a id="semi">[[19]](https://dl.acm.org/doi/abs/10.1145/1458082.1458315) Chen, Shouchun, et al. "Semi-supervised ranking aggregation." Proceedings of the 17th ACM conference on Information and knowledge management. 2008.(2022).</a>
+<a id="semi">[[19]](https://dl.acm.org/doi/abs/10.1145/1458082.1458315) Chen, S., Wang, F., Song, Y., & Zhang, C. (2008, October). Semi-supervised ranking aggregation. In Proceedings of the 17th ACM conference on Information and knowledge management (pp. 1427-1428).</a>
 
 <a id="BDB">[[20]](https://openaccess.thecvf.com/content_ICCV_2019/html/Dai_Batch_DropBlock_Network_for_Person_Re-Identification_and_Beyond_ICCV_2019_paper.html) Dai, Zuozhuo, et al. "Batch dropblock network for person re-identification and beyond." Proceedings of the IEEE/CVF international conference on computer vision. 2019.</a>
 
