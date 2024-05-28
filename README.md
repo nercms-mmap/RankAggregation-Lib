@@ -35,6 +35,7 @@
                 <li>$\textrm{HPA}$ <a href="#HPA&postNDCG">[9]</li>
                 <li>$\textrm{PostNDCG}$ <a href="#HPA&postNDCG">[9]</li>
                 <li>$\textrm{ER}$ <a href="#ER">[10]</li>
+                <li>$\textrm{ER}$ <a href="#Mork-H">[40]</li>
                 <li>$\textrm{CG}$ <a href="#CG">[11]</li>
                 <li>$\textrm{DIBRA}$ <a href="#DIBRA">[12]</li>
         </td>
@@ -329,6 +330,8 @@ Table 8: Normality and the overall of impartiality results for unsupervised RA m
 <a id="recall"> [[38]](https://academic.oup.com/bioinformatics/article/38/21/4927/6696211) Wang, B., Law, A., Regan, T., Parkinson, N., Cole, J., Russell, C. D., ... & Baillie, J. K. (2022). Systematic comparison of ranking aggregation methods for gene lists in experimental results. Bioinformatics, 38(21), 4927-4933.</a>
 
 <a id="IEIR"> [[39]](https://ieeexplore.ieee.org/abstract/document/10391254) Feng, S., Deng, Q., Wang, S., Song, L., & Liang, C. (2023, November). An Experimental Study of Unsupervised Rank Aggregation Methods in World University Rankings. In 2023 International Conference on Intelligent Education and Intelligent Research (IEIR) (pp. 1-8). IEEE.</a>
+
+<a id="Mork-H">[[40]](https://www.sciencedirect.com/science/article/abs/pii/S0377221719307039) Ivano Azzini., & Giuseppe Munda. (2020). Azzini, I., & Munda, G. (2020). A new approach for identifying the Kemeny median ranking. European Journal of Operational Research, 281(2), 388-401. </a>
 
  ## Contacts
 
