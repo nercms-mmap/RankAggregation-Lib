@@ -35,23 +35,24 @@
                 <li>$\textrm{HPA}$ <a href="#HPA&postNDCG">[9]</li>
                 <li>$\textrm{PostNDCG}$ <a href="#HPA&postNDCG">[9]</li>
                 <li>$\textrm{ER}$ <a href="#ER">[10]</li>
-                <li>$\textrm{ER}$ <a href="#Mork-H">[40]</li>
+                <li>$\textrm{Mork-H}$ <a href="#Mork-H">[40]</li>
                 <li>$\textrm{CG}$ <a href="#CG">[11]</li>
                 <li>$\textrm{DIBRA}$ <a href="#DIBRA">[12]</li>
+                <li>$\textrm{Borda-Score}$ <a href="#borda_score">[13]</li>
         </td>
         <td>
             <ul>
-                <li>$\textrm{wBorda}$ <a href="#wBorda">[13]</li>
-                <li>$\textrm{CRF}$ <a href="#CRF">[14]</li>
-                <li>$\textrm{CSRA}$ <a href="#CSRA">[15]</li>
-                <li>$\textrm{AggRankDE}$ <a href="#AggRankDe">[16]</li>
-                <li>$\textrm{IRA}_\textrm{R}$ <a href="#IRA">[17]</li>
-                <li>$\textrm{IRA}_\textrm{S}$ <a href="#IRA">[17]</li>
-                <li>$\textrm{QI-IRA}$ <a href="#QIIRA">[18]</li>
+                <li>$\textrm{wBorda}$ <a href="#wBorda">[14]</li>
+                <li>$\textrm{CRF}$ <a href="#CRF">[15]</li>
+                <li>$\textrm{CSRA}$ <a href="#CSRA">[16]</li>
+                <li>$\textrm{AggRankDE}$ <a href="#AggRankDe">[17]</li>
+                <li>$\textrm{IRA}_\textrm{R}$ <a href="#IRA">[18]</li>
+                <li>$\textrm{IRA}_\textrm{S}$ <a href="#IRA">[18]</li>
+                <li>$\textrm{QI-IRA}$ <a href="#QIIRA">[19]</li>
         </td>
         <td>
             <ul>
-                <li>$\textrm{SSRA}$ <a href="#semi">[19]</li>
+                <li>$\textrm{SSRA}$ <a href="#semi">[20]</li>
         </td>
     </tbody>
 </table>
