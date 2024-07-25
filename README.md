@@ -38,21 +38,21 @@
                 <li>$\textrm{Mork-H}$ <a href="#Mork-H">[40]</li>
                 <li>$\textrm{CG}$ <a href="#CG">[11]</li>
                 <li>$\textrm{DIBRA}$ <a href="#DIBRA">[12]</li>
-                <li>$\textrm{Borda-Score}$ <a href="#borda_score">[13]</li>
+                <li>$\textrm{Borda-Score}$ <a href="#borda_score">[41]</li>
         </td>
         <td>
             <ul>
-                <li>$\textrm{wBorda}$ <a href="#wBorda">[14]</li>
-                <li>$\textrm{CRF}$ <a href="#CRF">[15]</li>
-                <li>$\textrm{CSRA}$ <a href="#CSRA">[16]</li>
-                <li>$\textrm{AggRankDE}$ <a href="#AggRankDe">[17]</li>
-                <li>$\textrm{IRA}_\textrm{R}$ <a href="#IRA">[18]</li>
-                <li>$\textrm{IRA}_\textrm{S}$ <a href="#IRA">[18]</li>
-                <li>$\textrm{QI-IRA}$ <a href="#QIIRA">[19]</li>
+                <li>$\textrm{wBorda}$ <a href="#wBorda">[13]</li>
+                <li>$\textrm{CRF}$ <a href="#CRF">[14]</li>
+                <li>$\textrm{CSRA}$ <a href="#CSRA">[15]</li>
+                <li>$\textrm{AggRankDE}$ <a href="#AggRankDe">[16]</li>
+                <li>$\textrm{IRA}_\textrm{R}$ <a href="#IRA">[17]</li>
+                <li>$\textrm{IRA}_\textrm{S}$ <a href="#IRA">[17]</li>
+                <li>$\textrm{QI-IRA}$ <a href="#QIIRA">[18]</li>
         </td>
         <td>
             <ul>
-                <li>$\textrm{SSRA}$ <a href="#semi">[20]</li>
+                <li>$\textrm{SSRA}$ <a href="#semi">[19]</li>
         </td>
     </tbody>
 </table>
@@ -333,6 +333,8 @@ Table 8: Normality and the overall of impartiality results for unsupervised RA m
 <a id="IEIR"> [[39]](https://ieeexplore.ieee.org/abstract/document/10391254) Feng, S., Deng, Q., Wang, S., Song, L., & Liang, C. (2023, November). An Experimental Study of Unsupervised Rank Aggregation Methods in World University Rankings. In 2023 International Conference on Intelligent Education and Intelligent Research (IEIR) (pp. 1-8). IEEE.</a>
 
 <a id="Mork-H">[[40]](https://www.sciencedirect.com/science/article/abs/pii/S0377221719307039) Ivano Azzini., & Giuseppe Munda. (2020). Azzini, I., & Munda, G. (2020). A new approach for identifying the Kemeny median ranking. European Journal of Operational Research, 281(2), 388-401. </a>
+
+<a id="Mork-H">[[41]]([https://www.sciencedirect.com/science/article/abs/pii/S0377221719307039](https://ojs.aaai.org/index.php/AAAI/article/view/25685/25457)) Boehmer, Niclas, Robert Bredereck, and Dominik Peters. "Rank aggregation using scoring rules." Proceedings of the AAAI Conference on Artificial Intelligence. Vol. 37. No. 5. 2023. </a>
 
  ## Contacts
 
