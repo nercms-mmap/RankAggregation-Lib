@@ -334,7 +334,7 @@ Table 8: Normality and the overall of impartiality results for unsupervised RA m
 
 <a id="Mork-H">[[40]](https://www.sciencedirect.com/science/article/abs/pii/S0377221719307039) Ivano Azzini., & Giuseppe Munda. (2020). Azzini, I., & Munda, G. (2020). A new approach for identifying the Kemeny median ranking. European Journal of Operational Research, 281(2), 388-401. </a>
 
-<a id="Borda-Score">[[41]]([https://www.sciencedirect.com/science/article/abs/pii/S0377221719307039](https://ojs.aaai.org/index.php/AAAI/article/view/25685/25457)) Boehmer, Niclas, Robert Bredereck, and Dominik Peters. "Rank aggregation using scoring rules." Proceedings of the AAAI Conference on Artificial Intelligence. Vol. 37. No. 5. 2023. </a>
+<a id="borda_score">[[41]]([https://www.sciencedirect.com/science/article/abs/pii/S0377221719307039](https://ojs.aaai.org/index.php/AAAI/article/view/25685/25457)) Boehmer, Niclas, Robert Bredereck, and Dominik Peters. "Rank aggregation using scoring rules." Proceedings of the AAAI Conference on Artificial Intelligence. Vol. 37. No. 5. 2023. </a>
 
  ## Contacts
 
